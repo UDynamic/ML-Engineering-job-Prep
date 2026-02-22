@@ -50,19 +50,19 @@ Past = {
 }
 
 present: {
-  whoAmI = {
-    "I'm a scientist",
-    "I'm a mathematician",
-    "I'm a problem solver",
-    "I'm a teacher",
-    "I'm a planner",
-    "I'm a Studier",
-    "I'm a writer",
-    "I'm a constantly creating models",
+  "IAmA" = {
+    "scientist",
+    "mathematician",
+    "problem solver",
+    "teacher",
+    "planner",
+    "Studier",
+    "writer",
+    "constantly creating models",
   },
 
 
-  IEnjoy = {
+  "IEnjoy" = {
     "playing games",
     "Adventure",
     "Motorbikes",
@@ -121,6 +121,9 @@ future: {
 ```
 
 ---
+It seams that ML engineering has been always my dream super power. 
+
+---
 * Switching to light theme. (feels like it's more content focused and easier for focus)
 
 ---
@@ -132,3 +135,55 @@ looking to positions:
 * data analytics
 * ML engineering
 * Ai engineering
+
+---
+
+Most Important Feelings: {
+"Being the Wisest",
+"pride",
+"Accomplishment",
+"Progress",
+}
+
+Source of Pride: {
+"Exceptional results",
+"Complex problem solving",
+"creation",
+"assembly",
+"Automation" ,
+"Optimization",
+}
+
+---
+
+Flexes: {
+"I can do Neural Network backpropagation on paper",
+"I know it from the scratch" }
+
+Flexes-wishList : {
+"to build from scratch with bunch of scraps.",
+}
+
+---
+
+I'm creative (if not better variate). 
+I'm Super Intelligent with massive amount of data and programming skills. 
+
+exceptionally good at math. specially writing and studying. 
+
+---
+
+I'm in search of problems.
+challenge: people hide their problems or don't trust you.
+BruteForceSolution: wait it out, time buys you credit
+
+in interview ask for their secrets and problems in which you will find in short and long term.
+
+---
+
+I'm not engineer. 
+Don't position myself as one. 
+engineers are fast and high performant. 
+I'm Slow But deeper. 
+Better than the others, in everyway. 
+
