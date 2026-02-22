@@ -63,14 +63,17 @@ present: {
 
 
   IEnjoy = {
-    "I enjoy playing games",
-    "I enjoy studying games",
-    "I enjoy going to the gym",
-    "I enjoy going to the gym",
-    "I enjoy writing",
-    "I enjoy doing math",
-    "I enjoy solving puzzles",
-    "I enjoy solving complex problems",
+    "playing games",
+    "Adventure",
+    "Motorbikes",
+    "Coffe",
+    "studying games",
+    "going to the gym",
+    "going to the gym",
+    "writing",
+    "doing math",
+    "solving puzzles",
+    "solving complex problems",
   },
 
   "Attributes" = {
