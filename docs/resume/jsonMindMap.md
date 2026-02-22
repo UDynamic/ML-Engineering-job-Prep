@@ -58,7 +58,9 @@ present: {
     "I'm a planner",
     "I'm a Studier",
     "I'm a writer",
+    "I'm a constantly creating models",
   },
+
 
   IEnjoy = {
     "I enjoy playing games",
@@ -71,14 +73,20 @@ present: {
     "I enjoy solving complex problems",
   },
 
-  openToPositions = {
+  "Attributes" = {
+    "Honesty" = "Highest level",
+    "Fidelity" = "Highest level", 
+  }
+
+  "openToPositions" = {
     "data analytics",
     "Ml engineering",
     "Ai engineering",
   },
   
-  target = "to reach to the edge of Ai science and technology",
-  knowledgeDomain = {
+  "target" = "to reach to the edge of Ai science and technology",
+
+  "knowledgeDomain" = {
     "Data structures and algorithms",
     "Discrete math",
     "Linear Algebra",
@@ -92,7 +100,8 @@ present: {
       "Ai fine tunning",
       "Workflow Automation" = {"n8n", "OpenClaw"} ,
       "",}
-  evidence = {
+
+  "evidence" = {
     "Discipline, Consistensy" = "GitHub commit history",
     "Showing up no matter what" = "GitHub commit history",
     "honesty and fidelity " = "2 years relationship",
@@ -100,7 +109,7 @@ present: {
   Portfolio: {
     "ML engineering job prep projects",
     "autonomous Budgeting DRL Ai",
-    "several front-end projects",}
+    "**front-end projects**",}
 }
 
 future: {
