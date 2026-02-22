@@ -63,7 +63,7 @@ present: {
   },
 
   openToPositions = {
-    "data analitics",
+    "data analytics",
     "Ml engineering",
     "Ai engineering",
   },
