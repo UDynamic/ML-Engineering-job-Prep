@@ -2,39 +2,48 @@ I wrote this for my github profile but it doesn't look good.
 what could you do keeping this general format but maximizing the presentational appeal and readability:
 
 ```json
-Past: {
-  background = "Industrial Engineering (Engineering mangement)",
-  skills = {
+Past = {
+  
+  "background" = "Industrial Engineering (Engineering mangement)",
+  
+  "skills" = {
     "Data analysis", 
     "data visualization", 
     "progressive reports", 
     "mangement reports", 
     "delay analysis and planning",}
-  Tools: {
+  
+  "Tools" = {
     "social skilles",
     "Excel",
     "Powerpoint",}
 }
 
-careerBreak: {
-  dissatisfactions = {
+"careerBreak" = {
+  
+  "dissatisfactions" = {
     "personality incompability",
     "no real evidence of growth and progress",
     "low social status"
   }
-  motivation = "the urge for deep mastery level in computer science and technology focusing on Ai and automation",
-  justification = "no matter what you do, you couldn't be the best without spending almost all of your time working with computer",
-  experimentalPractices = {
+  
+  "motivation" = "the urge for deep mastery level in computer science and technology focusing on Ai and automation",
+  
+  "justification" = "no matter what you do, you couldn't be the best without spending almost all of your time working with computer",
+  
+  "experimentalPractices" = {
     "Front-End web development (Next.js)",
     "Back-End web development (Express.js, Nest.js)",
     "Machine learning and Ai (Python)",
     "Financial engineering and Quantitative analysis (Conceptual, not programming)",
     "",}
-  foundPassions: {
+  
+  "foundPassions" = {
     "Mathematics",
     "Machine learning and Ai",
     "Robotics (more specifically in micro gravity condition)",}
-  competitions: {
+  
+  "competitions" = {
     "Masters Grades"= "Rank A",
     "Masters thesis" = "(Developed Budgeting Ai agent)",
     "National PHD exam for Computer engineering - Ai and Robotics" = "(Scored rank 1)",}
