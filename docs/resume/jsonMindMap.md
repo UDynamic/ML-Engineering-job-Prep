@@ -68,5 +68,11 @@ future: {
 }
 ```
 
-
+---
 * Switching to light theme. (feels like it's more content focused and easier for focus)
+
+---
+
+* very obviously different systems (shows itself in documentations) in this job hunt and previous ones.
+
+---
