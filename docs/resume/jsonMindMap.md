@@ -61,20 +61,25 @@ present: {
     "constantly creating models",
   },
 
-
+  so I get rewarded
   "IEnjoy" = {
-    "playing games",
     "Adventure",
-    "Motorbikes",
     "Coffe",
+    "recieving money",
+  },
+
+  "currentHobbies" = {
+    "Motorbikes",
+    "reading Ai chatbot thinking processes",
+    "reading math in Arabics",
+    "playing games",
     "studying games",
-    "going to the gym",
-    "going to the gym",
     "writing",
     "doing math",
     "solving puzzles",
     "solving complex problems",
-  },
+    "",
+  }
 
   "Attributes" = {
     "Honesty" = "Highest level",
