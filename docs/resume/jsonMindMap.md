@@ -187,3 +187,14 @@ engineers are fast and high performant.
 I'm Slow But deeper. 
 Better than the others, in everyway. 
 
+---
+
+why PHD exam?
+
+
+I proved everyone myself. 
+even good enough for my self satisfaction. 
+
+---
+
+
