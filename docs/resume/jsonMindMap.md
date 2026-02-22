@@ -194,6 +194,7 @@ why PHD exam?
 
 I proved everyone myself. 
 even good enough for my self satisfaction. 
+My friends and family, everyone see's me different now. 
 
 ---
 
