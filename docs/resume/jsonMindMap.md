@@ -76,3 +76,7 @@ future: {
 * very obviously different systems (shows itself in documentations) in this job hunt and previous ones.
 
 ---
+looking to positions:
+* data analytics
+* ML engineering
+* Ai engineering
