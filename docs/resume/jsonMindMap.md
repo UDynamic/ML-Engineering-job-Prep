@@ -197,4 +197,10 @@ even good enough for my self satisfaction.
 
 ---
 
+the fundamental appeal and justification of Ai and data science:
+
+Coolest Ai is a human being. 
+Humans are the real Intelligent by the definition. 
+
+---
 
