@@ -41,8 +41,34 @@ careerBreak: {
 }
 
 present: {
-  specialty = "ML&Ai engineering",
-  target = "to reach to the edge of Ai science and technology"
+  whoAmI = {
+    "I'm a scientist",
+    "I'm a mathematician",
+    "I'm a problem solver",
+    "I'm a teacher",
+    "I'm a planner",
+    "I'm a Studier",
+    "I'm a writer",
+  },
+
+  IEnjoy = {
+    "I enjoy playing games",
+    "I enjoy studying games",
+    "I enjoy going to the gym",
+    "I enjoy going to the gym",
+    "I enjoy writing",
+    "I enjoy doing math",
+    "I enjoy solving puzzles",
+    "I enjoy solving complex problems",
+  },
+
+  openToPositions = {
+    "data analitics",
+    "Ml engineering",
+    "Ai engineering",
+  },
+  
+  target = "to reach to the edge of Ai science and technology",
   knowledgeDomain = {
     "Data structures and algorithms",
     "Discrete math",
@@ -57,6 +83,11 @@ present: {
       "Ai fine tunning",
       "Workflow Automation" = {"n8n", "OpenClaw"} ,
       "",}
+  evidence = {
+    "Discipline, Consistensy" = "GitHub commit history",
+    "Showing up no matter what" = "GitHub commit history",
+    "honesty and fidelity " = "2 years relationship",
+  }
   Portfolio: {
     "ML engineering job prep projects",
     "autonomous Budgeting DRL Ai",
