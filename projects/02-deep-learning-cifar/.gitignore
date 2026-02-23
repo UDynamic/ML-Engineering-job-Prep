@@ -1,4 +1,12 @@
+# Define the path to the .gitignore file
+$gitignorePath = "02-deep-learning-cifar/.gitignore"
+
+# Create or append the ignore rules
+@"
+# Ignore the data folder (all contents)
 data/
-/data/
-.data
-.data/
+
+# Ignore all model checkpoint files, but keep the final model
+models/checkpoint_*.pth
+!models/final_model.pth
+"@ | Add-Content -Path $gitignorePath
