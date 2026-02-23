@@ -12,4 +12,5 @@
     * I make complex models for complex problems with accurate results.
     * I can do backpropagation on paper. 
 
-### 3. 
+### 3. Scikit-Learn ColumnTransformer [Applied Machine Learning || Varada Kolhatkar || UBC] (Applied Machine Learning )
+
