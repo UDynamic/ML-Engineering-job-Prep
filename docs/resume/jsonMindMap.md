@@ -32,10 +32,33 @@ Past = {
   "justification" = "no matter what you do, you couldn't be the best without spending almost all of your time working with computer",
   
   "experimentalPractices" = {
-    "Front-End web development (Next.js)",
-    "Back-End web development (Express.js, Nest.js)",
+    "Financial engineering and Quantitative analysis": {
+      "Financial services": {
+        "Accounting",
+        "Marketing",
+        "",
+      },
+      
+      "Financial Markets",
+    },
+    "Front-End web development (Next.js)": {
+      "Infrastructure (WSL, CLI, OS, hardware)",
+      "databases (SQL- NoSQL)",
+      "JSX (React.js, redux, Next.js)",
+      "Design (Ui, Ux, Landing page)",
+      "Markiting",
+      "QA",
+      "Projects": {},
+    },
+    "Back-End web development (Express.js, Nest.js)": {
+      "security (Login, Authentication, encryption/decryption)",
+      "database management",
+      "End to End Data Pipeline",
+      "design patterns (factory, strategy, template)",
+      "Projects": {},
+
+    },
     "Machine learning and Ai (Python)",
-    "Financial engineering and Quantitative analysis (Conceptual, not programming)",
     "",}
   
   "foundPassions" = {
