@@ -115,6 +115,10 @@ We have a folder `02-deep-learning-cifar/` with this structure (partial):
 ---
 ## history
 
+This is super common with ML projects - someone commits a 200MB model file, then removes it with .gitignore, but Git keeps it forever in history.
+
+Let's find the culprits. Run this exact command:
+
 ```Git
 
 git rev-list --objects --all | git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | Where-Object {$_ -match "blob"} | ForEach-Object {$_ -replace "blob ", ""} | Sort-Object {[int]($_.Split()[1])} -Descending | Select-Object -First 10
