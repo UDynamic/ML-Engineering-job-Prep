@@ -113,3 +113,10 @@ We have a folder `02-deep-learning-cifar/` with this structure (partial):
 4. **Keep** all source code, README, and other essential files tracked
 
 ---
+## history
+
+```Git
+
+git rev-list --objects --all | git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | Where-Object {$_ -match "blob"} | ForEach-Object {$_ -replace "blob ", ""} | Sort-Object {[int]($_.Split()[1])} -Descending | Select-Object -First 10
+
+```
