@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.utils.tensorboard import SummaryWriter
 from src.model import SimpleCNN
-from src.dataset import get_data_loaders  # we'll create this function
+from src.utils import get_data_loaders  # we'll create this function
 from src.utils import accuracy, save_checkpoint
 
 def train_one_epoch(model, loader, criterion, optimizer, device):
