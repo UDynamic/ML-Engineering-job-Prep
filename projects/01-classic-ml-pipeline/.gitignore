@@ -1,0 +1,12 @@
+# Define the path to the .gitignore file
+$gitignorePath = "01-classic-ml-pipeline/.gitignore"
+
+# Create or append the ignore rules
+@"
+# Ignore the data folder (all contents)
+# data/
+
+# Ignore all model checkpoint files, but keep the final model
+models/final_model_*.pkl
+!models/final_model.pkl
+"@ | Add-Content -Path $gitignorePath
