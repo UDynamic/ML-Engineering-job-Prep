@@ -31,6 +31,10 @@ I believe in building a strong mathematical foundation while applying it to real
 
 ## the priority:
 
-Task 1
-Task 2
-Task 3
+* Task 1
+* Task 2
+* Task 3
+
+* Task 7
+* Task 8
+* Task 9
