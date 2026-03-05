@@ -22,13 +22,6 @@ A production-ready REST API for house price prediction, built with FastAPI and c
 
 ---
 
-## Requirements
-
-- Python 3.11+
-- Docker (optional, for containerized deployment)
-
----
-
 ## Local Setup (without Docker)
 
 1. **Clone the repository** and navigate to the project folder:
@@ -247,7 +240,3 @@ This creates a file `testSample.json` containing the first row of the dataset (w
 - The API is designed to be production‑ready, with proper logging, error handling, and input validation.
 
 ---
-
-## License
-
-This project is part of an ML engineering portfolio. Use it as a reference for serving models with FastAPI and Docker.
