@@ -1,0 +1,511 @@
+{
+"meta": {
+    "version": "1.0",
+    "last_updated": "2026-03-19",
+    "purpose": "Master personal context map for role-specific resume generation.",
+    "notes": "Use verified facts. Replace placeholders when documents are available."
+},
+"identity": {
+    "full_name": "Mahriar Gharaghani",
+    "headline": "AI Engineer | Reinforcement Learning | Robotics",
+    "location": "Tehran, Iran",
+    "email": "mahriargharaghani@gmail.com",
+    "phone": "09173978579",
+    "birth_year_shamsi": 1378,
+    "gender": "Male",
+    "marital_status": "Single",
+    "military_status": "Educational exemption",
+    "province": "Tehran",
+    "address": "Tehran",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "website": ""
+},
+"career_targets": {
+    "open_to_positions": [
+    "AI Engineer",
+    "ML Engineer",
+    "Python Developer"
+    ],
+    "target_roles_priority": [
+    {
+        "role": "AI Engineer",
+        "priority": 1,
+        "reason": "Best match with current projects and research direction."
+    },
+    {
+        "role": "ML Engineer",
+        "priority": 2,
+        "reason": "Strong fit with model building, deployment, and workflow automation."
+    },
+    {
+        "role": "Python Developer",
+        "priority": 3,
+        "reason": "Adjacent path supported by practical software experience."
+    }
+    ],
+    "preferred_industries": [
+    "AI",
+    "Robotics",
+    "FinTech",
+    "Automation"
+    ],
+    "preferred_company_stage": "Growth-stage or research-driven teams",
+    "preferred_work_type": [
+    "Hybrid",
+    "Remote"
+    ],
+    "preferred_locations": [
+    "Tehran, Iran"
+    ],
+    "salary_expectation": {
+    "currency": "IRR million toman",
+    "min": 40,
+    "target": 40,
+    "max": null
+    }
+},
+"personal_brand": {
+    "positioning_statement": "AI Engineer with an academic research focus in reinforcement learning and robotics, plus full-stack software engineering
+experience.",
+    "professional_summary": "Self-directed AI Engineer with Industrial Engineering background, practical product leadership experience, and hands-on
+delivery across RL systems, robotics simulations, and automation workflows.",
+    "about_me_short": [
+    "AI Engineer",
+    "Academic AI researcher (Reinforcement Learning, Robotics)",
+    "Software Engineer background (Next.js, Nest.js, Python)"
+    ],
+    "core_identity": [
+    "Research-oriented engineer",
+    "Problem solver",
+    "System thinker",
+    "Builder"
+    ],
+    "work_style": {
+    "depth_over_speed": true,
+    "notes": "Prioritizes rigor, reproducibility, and clear communication."
+    },
+    "values": [
+    {
+        "name": "Honesty",
+        "level": "Highest",
+        "evidence": "Transparent communication and realistic scoping."
+    },
+    {
+        "name": "Commitment",
+        "level": "Highest",
+        "evidence": "Long-term focus on difficult technical goals."
+    }
+    ]
+},
+"background": {
+    "education_foundation": "Industrial Engineering",
+    "past_skills": [
+    "Project control",
+    "Portfolio management",
+    "KPI design",
+    "Management reporting",
+    "Stakeholder communication"
+    ],
+    "past_tools": [
+    "Excel",
+    "PowerPoint",
+    "Project dashboards"
+    ],
+    "past_domain_experience": [
+    "EPC projects",
+    "Marketplace/product operations"
+    ],
+    "languages": [
+    {
+        "language": "Persian (Farsi)",
+        "proficiency": "Native"
+    },
+    {
+        "language": "English",
+        "proficiency": "Advanced (self-reported)"
+    }
+    ]
+},
+"education": [
+    {
+    "degree": "B.Sc.",
+    "field": "Industrial Engineering",
+    "institution": "Isfahan University of Technology (IUT)",
+    "location": "Isfahan, Iran",
+    "start_date_shamsi": "1396",
+    "end_date_shamsi": "1402",
+    "gpa": "",
+    "rank_or_grade": "",
+    "notes": ""
+    },
+    {
+    "degree": "M.Sc. (In Progress)",
+    "field": "Engineering Management",
+    "institution": "Iran University of Science and Technology (IUST)",
+    "location": "Tehran, Iran",
+    "start_date_shamsi": "1402",
+    "end_date_shamsi": "Present",
+    "gpa": "",
+    "rank_or_grade": "National entrance exam rank: 28 (Industrial Engineering M.Sc.)",
+    "thesis": {
+        "title": "Autonomous Budgeting AI Agent",
+        "summary": "Designed and developed a DRL agent for budgeting decisions under uncertain cashflows.",
+        "link": ""
+    }
+    }
+],
+"experience": [
+    {
+    "title": "Product Manager",
+    "company": "Melkapo",
+    "location": "Iran",
+    "employment_type": "Full-time",
+    "start_date_shamsi": "1403-01",
+    "end_date_shamsi": "1403-06",
+    "is_current": false,
+    "responsibilities": [
+        "Led a 3-person team (APM, Marketing Specialist, Designer).",
+        "Designed a new business model with pricing engine components for contract management.",
+        "Launched new web and mobile products and defined go-to-market roadmap.",
+        "Managed cloud service usage for cost control.",
+        "Set OKRs and KPIs for cross-functional execution."
+    ],
+    "achievements": [
+        {
+        "statement": "Aligned product, marketing, and design execution around measurable goals.",
+        "metric": ""
+        }
+    ],
+    "tools_used": [
+        "Product roadmaping",
+        "OKR/KPI frameworks",
+        "Cloud services",
+        "Cross-functional delivery"
+    ]
+    },
+    {
+    "title": "Project Management Officer",
+    "company": "Iran Energy Industries Corporation (IEIC)",
+    "location": "Iran",
+    "employment_type": "Full-time",
+    "start_date_shamsi": "1402-06",
+    "end_date_shamsi": "1402-12",
+    "is_current": false,
+    "responsibilities": [
+        "Led and coached a 5-person planning and coordination team.",
+        "Built marketing infrastructure to support market development.",
+        "Supported signing of 2 major contracts.",
+        "Improved portfolio utility and reduced short-term debt deadlines by 30%.",
+        "Managed project planning for faster delivery.",
+        "Handled claims management, including filing for 25% claim scope.",
+        "Managed subcontractor operations and stakeholder communication.",
+        "Defined and tracked enterprise KPIs across EPC functions."
+    ],
+    "achievements": [
+        {
+        "statement": "Drove measurable portfolio and financial improvement.",
+        "metric": "-30% short-term debt deadlines"
+        },
+        {
+        "statement": "Contributed to commercial growth.",
+        "metric": "2 major contracts signed"
+        }
+    ],
+    "tools_used": [
+        "Portfolio management",
+        "Claims management",
+        "EPC dashboards",
+        "KPI systems"
+    ]
+    },
+    {
+    "title": "Project Control Specialist",
+    "company": "Jahanpars Group",
+    "location": "Iran",
+    "employment_type": "Full-time",
+    "start_date_shamsi": "1398-11",
+    "end_date_shamsi": "1399-12",
+    "is_current": false,
+    "responsibilities": [
+        "Produced data-driven project control reports (weekly, biweekly, monthly).",
+        "Monitored execution schedules against contract baselines.",
+        "Guided engineering and procurement teams on scheduling discipline.",
+        "Tracked engineering document issuance and delivery progress.",
+        "Prepared periodic status analysis for top management.",
+        "Directed subcontractor resource control.",
+        "Applied Agile, Scrum, and PMBOK practices for execution quality."
+    ],
+    "achievements": [
+        {
+        "statement": "Improved reporting quality and project visibility across EPC phases.",
+        "metric": ""
+        }
+    ],
+    "tools_used": [
+        "Schedule control",
+        "EPC reporting",
+        "Agile/Scrum",
+        "PMBOK"
+    ]
+    }
+],
+"projects": [
+    {
+    "name": "DRL Budgeting Agent for Uncertain Cashflows",
+    "category": "AI / Reinforcement Learning",
+    "problem": "Budget allocation under uncertainty with dynamic constraints.",
+    "solution": "Built a DRL-based agent for autonomous budgeting decisions.",
+    "tech_stack": [
+        "Python",
+        "Reinforcement Learning"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Demonstrates practical RL application for financial decision support."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    },
+    {
+    "name": "DRL Robotic Arm for Microgravity Assembly",
+    "category": "AI / Robotics",
+    "problem": "Trajectory planning and control for robotic assembly in microgravity conditions.",
+    "solution": "Trained a DRL robotic arm policy for assembly-oriented movement.",
+    "tech_stack": [
+        "Python",
+        "Reinforcement Learning",
+        "Robotics simulation"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Bridges RL research with robotics control challenges."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    },
+    {
+    "name": "SMB Workflow Automations",
+    "category": "Automation / Applied AI",
+    "problem": "Manual operational workflows reduced speed and consistency.",
+    "solution": "Implemented automation flows for SMB operations using n8n.",
+    "tech_stack": [
+        "n8n",
+        "APIs",
+        "Workflow orchestration"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Improved repeatability and reduced manual workload."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    },
+    {
+    "name": "Melkapo.ir",
+    "category": "Full-stack Application",
+    "problem": "Needed a production-ready digital product aligned with new business model.",
+    "solution": "Helped deliver web/mobile product with roadmap and cloud cost considerations.",
+    "tech_stack": [
+        "Next.js",
+        "Nest.js",
+        "Cloud services"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Supports go-to-market execution with structured product management."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    },
+    {
+    "name": "Logistics Marketplace Heatmap Decision Support",
+    "category": "Data / Full-stack",
+    "problem": "Needed region-based profitability visibility for marketplace decisions.",
+    "solution": "Built heatmap-based decision support for operational and strategic analysis.",
+    "tech_stack": [
+        "Python",
+        "Data analysis",
+        "Visualization"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Enables faster location-aware business decisions."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    },
+    {
+    "name": "Private E-commerce Websites",
+    "category": "Full-stack Application",
+    "problem": "Clients needed tailored online commerce systems.",
+    "solution": "Built multiple private e-commerce implementations.",
+    "tech_stack": [
+        "Next.js",
+        "Nest.js",
+        "Databases"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Delivered custom digital commerce capabilities."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    },
+    {
+    "name": "Automated Financial Market Trading Systems",
+    "category": "Quant / Algorithmic Trading",
+    "problem": "Explore systematic strategies for market execution and risk behavior.",
+    "solution": "Developed multiple automated strategies and tested logic variants.",
+    "tech_stack": [
+        "Python",
+        "MQL4",
+        "MQL5"
+    ],
+    "sub_strategies": [
+        "Momentum-based algorithm",
+        "Martingale theory on indexed games",
+        "Algorithmic Elliott waves",
+        "Long-term variance from mean-reversion threshold"
+    ],
+    "impact": {
+        "metrics": [],
+        "business_value": "Shows quantitative strategy design and automation capability."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    }
+    }
+],
+"skills": {
+    "core": [
+    "AI/ML",
+    "Reinforcement Learning",
+    "Robotics",
+    "Python",
+    "JavaScript",
+    "Web Development",
+    "Databases"
+    ],
+    "ai_system_design": [
+    "Prompt engineering",
+    "RAG implementation",
+    "Workflow automation",
+    "Model lifecycle thinking"
+    ],
+    "engineering": [
+    "Next.js",
+    "Nest.js",
+    "Full-stack architecture",
+    "Cloud cost-aware delivery"
+    ],
+    "management": [
+    "OKR/KPI design",
+    "Portfolio management",
+    "Stakeholder management",
+    "Cross-functional leadership"
+    ]
+},
+"achievements": {
+    "competitions_and_exams": [
+    {
+        "name": "M.Sc. Entrance Exam (Industrial Engineering)",
+        "result": "Rank 28",
+        "year_shamsi": "1402",
+        "verification": ""
+    }
+    ],
+    "awards": [],
+    "publications": [],
+    "certifications": []
+},
+"interview_strategy": {
+    "narrative_points": [
+    "I choose high-impact technical problems.",
+    "I combine research depth with implementation discipline.",
+    "I deliver across AI, software, and product constraints."
+    ],
+    "questions_to_ask_employers": [
+    "What are your top technical bottlenecks this quarter?",
+    "Which high-impact problems are currently deferred?",
+    "How is success measured at 3, 6, and 12 months?"
+    ]
+},
+"future": {
+    "vision": "Advance AI and robotics through research-grade engineering and deployable systems.",
+    "long_term_goals": [
+    "Deepen multi-agent and RL expertise",
+    "Build stronger MLOps/production capabilities",
+    "Contribute to frontier AI and robotics research"
+    ],
+    "research_interests": [
+    "Reinforcement Learning",
+    "Robotics",
+    "Human intelligence modeling",
+    "Deep RL",
+    "Microgravity robotics"
+    ]
+},
+"resume_generation_controls": {
+    "tone_options": [
+    "Formal",
+    "Technical",
+    "Executive"
+    ],
+    "role_specific_emphasis": {
+    "ai_engineer": [
+        "RL/robotics depth",
+        "Applied AI systems",
+        "Automation workflows",
+        "Research-to-production translation"
+    ],
+    "ml_engineer": [
+        "Model lifecycle",
+        "Deployment readiness",
+        "Experiment discipline",
+        "Performance tracking"
+    ],
+    "python_developer": [
+        "Backend reliability",
+        "Automation",
+        "Data workflows",
+        "Maintainable architecture"
+    ]
+    },
+    "exclude_for_resume": [
+    "Unverifiable claims",
+    "Overly personal statements"
+    ]
+},
+"verification_queue": {
+    "items_needing_verification": [
+    "LinkedIn, GitHub, and portfolio links",
+    "Project repositories, demos, and measurable metrics",
+    "Military status wording for formal CV use",
+    "Exact dates in Gregorian format",
+    "English proficiency proof level",
+    "Any publication/certification documents"
+    ]
+}
+}
