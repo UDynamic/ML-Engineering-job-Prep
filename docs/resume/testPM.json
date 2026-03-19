@@ -6,11 +6,11 @@
     "notes": "Fill placeholders with specific, verifiable details."
   },
   "identity": {
-    "full_name": "",
+    "full_name": "Mahriar Gharaghani",
     "headline": "",
-    "location": "",
-    "email": "",
-    "phone": "",
+    "location": "Tehran",
+    "email": "mahriargharaghani@gmail.com",
+    "phone": "09173978579",
     "linkedin": "",
     "github": "",
     "portfolio": "",
@@ -18,29 +18,40 @@
   },
   "career_targets": {
     "open_to_positions": [
-      "Data Analyst",
       "ML Engineer",
-      "AI Engineer"
+      "AI Engineer",
+      "Python developer"
     ],
     "target_roles_priority": [
       {
-        "role": "",
+        "role": "Ml engineer",
         "priority": 1,
-        "reason": ""
+        "reason": "inline with latest projects and academic study"
+      }, {
+        "role": "Ai engineer",
+        "priority": 2,
+        "reason": "inline with latest projects and academic study. maybe ambitious for corrent knowledge and skills"
+      }, {
+        "role": "Python developer",
+        "priority": 3,
+        "reason": "general positioning around the python coding as the main language of focus for AI and ML"
       }
     ],
-    "preferred_industries": [],
+    "preferred_industries": [
+      "robotics",
+      "Pure Ai science",
+      "Finance"
+    ],
     "preferred_company_stage": "",
     "preferred_work_type": [
-      "On-site",
       "Hybrid",
       "Remote"
     ],
-    "preferred_locations": [],
+    "preferred_locations": ["Tehran is ideal for my current location being there"],
     "salary_expectation": {
-      "currency": "",
-      "min": null,
-      "target": null,
+      "currency": "Iranian Millon Tomans",
+      "min": 40,
+      "target": 40,
       "max": null
     }
   },
