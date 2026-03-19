@@ -399,13 +399,13 @@
       "name": "RAG4Konkur",
       "category": "Applied AI / Local LLM / Exam Preparation",
       "problem": "Needed an adaptive study assistant for National PhD exam preparation with subject-specific recall testing.",
-      "solution": "Implemented a local LLM workflow (Ollama, to verify) on shared IUST A100 80GB infrastructure; designed flashcard-style prompting to quiz and evaluate exam readiness across key subjects.",
+      "solution": "Built a local LLM-assisted study workflow (runtime stack to verify) on shared IUST compute and designed flashcard-style prompting to quiz and evaluate readiness across core exam subjects.",
       "context": {
         "institution": "Iran University of Science and Technology (IUST)",
-        "compute": "Shared NVIDIA A100 80GB (to verify exact allocation/runtime)",
+        "compute": "Shared NVIDIA A100 80GB (self-reported; verify exact allocation/runtime)",
         "deployment_mode": "Local/on-prem style setup (details to verify)",
-        "llm_runtime": "Ollama (to verify exact version and stack)",
-        "phase": "Preparation for National PhD exam"
+        "llm_runtime": "Ollama (self-reported; verify exact version/model)",
+        "phase": "Preparation for 2026 National PhD exam"
       },
       "exam_focus": {
         "exam": "National PhD Exam",
@@ -419,34 +419,48 @@
       "training_and_tuning": {
         "objective": "Potential fine-tuning/adaptation for domain-specific questioning behavior",
         "status": "Planned or partially implemented (to verify)",
-        "approach_placeholder": "SFT/PEFT prompt-tuning strategy details pending",
+        "approach_placeholder": "SFT/PEFT or prompt-tuning details pending",
         "evaluation_placeholder": "Question quality, coverage, and learner accuracy metrics pending"
       },
       "assets": {
+        "repo_path": "F:/Career/00. Univesity/PHD/Exam Log/blackoutPhdPreparation",
         "flashcard_prompts_path": "",
         "prompt_templates_path": "",
         "question_bank_path": "",
+        "anki_backup_path": "docs/ankiDroidBackups/",
+        "latex_notes_path": "docs/Latex/",
         "evaluation_notebooks_path": "",
         "training_scripts_path": "",
         "inference_scripts_path": "",
         "configs_path": "",
-        "notes": "User will provide artifact paths later."
+        "notes": "User will provide exact artifact paths later."
       },
       "tech_stack": [
         "Python",
         "Ollama (to verify)",
         "Local LLM inference",
         "Prompt engineering",
-        "RAG pipeline (if used; to verify)"
+        "Anki/AnkiDroid workflow",
+        "LaTeX/XeLaTeX"
       ],
       "impact": {
         "metrics": [],
-        "business_value": "Demonstrates practical LLM systems thinking for education workflows and self-evaluation under exam constraints."
+        "business_value": "Demonstrates practical LLM systems design for high-discipline education workflows and exam readiness evaluation."
       },
       "links": {
         "repo": "",
         "demo": "",
         "case_study": ""
+      },
+      "workflow_design": {
+        "pipeline": [
+          "Pre-read chapter",
+          "Take concise technical notes",
+          "Generate flashcards via prompt workflow",
+          "Manually review and refine cards",
+          "Convert and import into Anki"
+        ],
+        "source_note": "Documented in blackoutPhdPreparation/docs/Workflow.md"
       }
     }
   ],
@@ -470,7 +484,9 @@
       "Next.js",
       "Nest.js",
       "Full-stack architecture",
-      "Cloud cost-aware delivery"
+      "Cloud cost-aware delivery",
+      "LaTeX/XeLaTeX technical writing",
+      "Mathematical notation authoring"
     ],
     "management": [
       "OKR/KPI design",
@@ -490,7 +506,35 @@
     ],
     "awards": [],
     "publications": [],
-    "certifications": []
+    "certifications": [],
+    "exam_performance": [
+      {
+        "name": "National PhD Exam Day (Preparation Log)",
+        "year": "2026",
+        "status": "Self-reported",
+        "details": {
+          "english": {
+            "total_questions": 40,
+            "filled_percent": "~90%",
+            "risky_count": 8
+          },
+          "machine_learning": {
+            "total_questions": 25,
+            "filled_count": 20,
+            "filled_percent": "~80%",
+            "risky_count": 5
+          },
+          "data_structures_and_algorithms": {
+            "total_questions": 20,
+            "filled_count": 5,
+            "filled_percent": "~25%",
+            "risky_count": 3
+          }
+        },
+        "source": "blackoutPhdPreparation/ExamDay-log.md",
+        "notes": "Percentages/counts are log-based and should be validated against official score/report if needed."
+      }
+    ]
   },
   "interview_strategy": {
     "narrative_points": [
@@ -562,7 +606,12 @@
       "IUST compute access details (shared A100 80GB usage window)",
       "Flashcard prompt artifacts and file paths",
       "Fine-tuning/adaptation status and method",
-      "Evaluation results for PhD-subject question quality"
+      "Evaluation results for PhD-subject question quality",
+      "RAG4Konkur exact runtime stack (Ollama version/model)",
+      "IUST shared A100 80GB compute usage details",
+      "Exact file paths for flashcard prompts/templates/question bank",
+      "LaTeX artifacts to showcase (docs/Latex/*.tex selection)",
+      "Exam-day self-reported fill/risk metrics vs official score evidence"
     ]
   }
 }
