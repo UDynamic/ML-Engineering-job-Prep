@@ -1,0 +1,628 @@
+{
+"meta": {
+    "version": "1.0",
+    "last_updated": "2026-03-19",
+    "purpose": "Master personal context map for generating role-specific resumes",
+    "notes": "Fill placeholders with specific, verifiable details."
+},
+"identity": {
+    "full_name": "Mahriar Gharaghani",
+    "headline": "ML & AI Engineer with Industrial Engineering background",
+    "location": "Tehran",
+    "email": "mahriargharaghani@gmail.com",
+    "phone": "09173978579",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "website": ""
+},
+"career_targets": {
+    "open_to_positions": ["ML Engineer", "AI Engineer", "Python developer"],
+    "target_roles_priority": [
+    {
+        "role": "Ml engineer",
+        "priority": 1,
+        "reason": "inline with latest projects and academic study"
+    },
+    {
+        "role": "Ai engineer",
+        "priority": 2,
+        "reason": "inline with latest projects and academic study. maybe ambitious for corrent knowledge and skills"
+    },
+    {
+        "role": "Python developer",
+        "priority": 3,
+        "reason": "general positioning around the python coding as the main language of focus for AI and ML"
+    }
+    ],
+    "preferred_industries": ["robotics", "Pure Ai science", "Finance"],
+    "preferred_company_stage": "",
+    "preferred_work_type": ["Hybrid", "Remote"],
+    "preferred_locations": ["Tehran is ideal for my current location being there"],
+    "salary_expectation": {
+    "currency": "Iranian Millon Tomans",
+    "min": 40,
+    "target": 40,
+    "max": null
+    }
+},
+"personal_brand": {
+    "positioning_statement": "ML & AI Engineer bridging analytical rigor with hands-on AI system development, with a strong foundation in mathematics,
+reinforcement learning, and robotics.",
+    "professional_summary": "Self-directed ML & AI Engineer with an Industrial Engineering background, ranked 1st nationally in the Computer Engineering
+(AI & Robotics) PhD entrance exam, and builder of an autonomous budgeting AI agent.",
+    "core_identity": ["Scientist", "Mathematician", "Problem Solver", "Teacher", "Planner", "Writer"],
+    "work_style": {
+    "depth_over_speed": true,
+    "notes": ""
+    },
+    "values": [
+    {
+        "name": "Honesty",
+        "level": "Highest",
+        "evidence": ""
+    },
+    {
+        "name": "Fidelity",
+        "level": "Highest",
+        "evidence": ""
+    }
+    ],
+    "most_important_feelings": ["Being the wisest", "Pride", "Accomplishment", "Progress"],
+    "sources_of_pride": ["Exceptional results", "Complex problem solving", "Creation", "Assembly", "Automation", "Optimization"]
+},
+"background": {
+    "education_foundation": "Industrial Engineering (Engineering Management)",
+    "past_skills": ["Data analysis", "Data visualization", "Progress reports", "Management reports", "Delay analysis and planning"],
+    "past_tools": ["Social skills", "Excel", "PowerPoint"],
+    "past_domain_experience": [],
+    "languages": [
+    {
+        "language": "",
+        "proficiency": ""
+    }
+    ]
+},
+"career_transition": {
+    "career_break": {
+    "start_date": "",
+    "end_date": "",
+    "summary": "Focused full-time on deep computer science, machine learning, and AI mastery through hands-on projects and systematic study.",
+    "dissatisfactions": ["Personality incompatibility", "No real evidence of growth and progress", "Low social status"],
+    "motivation": "Urge for deep mastery in computer science, AI, and automation",
+    "justification": "Top-level outcomes in modern fields require deep and sustained computing-focused practice"
+    },
+    "experimental_practices": [
+    {
+        "domain": "Financial Engineering and Quantitative Analysis",
+        "areas_explored": ["Accounting", "Marketing", "Financial markets"],
+        "projects": []
+    },
+    {
+        "domain": "Front-End Web Development",
+        "stack": ["React", "Redux", "Next.js"],
+        "areas_explored": ["Infrastructure (WSL, CLI, OS, hardware)", "Databases (SQL, NoSQL)", "UI/UX design", "Landing pages", "QA"],
+        "projects": []
+    },
+    {
+        "domain": "Back-End Web Development",
+        "stack": ["Express.js", "Nest.js"],
+        "areas_explored": ["Security (authentication, encryption)", "Database management", "End-to-end data pipelines", "Design patterns (factory,
+strategy, template)"],
+        "projects": []
+    },
+    {
+        "domain": "Machine Learning and AI",
+        "areas_explored": [],
+        "projects": []
+    }
+    ],
+    "found_passions": ["Mathematics", "Machine Learning and AI", "Robotics (micro-gravity focus)"]
+},
+"education": [
+    {
+    "degree": "M.Sc.",
+    "field": "Industrial Engineering (Engineering Management)",
+    "institution": "",
+    "location": "",
+    "start_date": "",
+    "end_date": "",
+    "gpa": "",
+    "rank_or_grade": "Rank A",
+    "relevant_coursework": [],
+    "thesis": {
+        "title": "Autonomous Budgeting AI Agent",
+        "summary": "Designed and developed an autonomous AI agent for budgeting decisions as a master's thesis project.",
+        "link": ""
+    }
+    }
+],
+"achievements": {
+    "competitions_and_exams": [
+    {
+        "name": "Master's Grades",
+        "result": "Rank A",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "Master's Thesis",
+        "result": "Developed budgeting AI agent",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "National PhD Exam for Computer Engineering (AI & Robotics)",
+        "result": "Rank 1",
+        "year": "",
+        "verification": ""
+    }
+    ],
+    "awards": [],
+    "publications": [],
+    "certifications": [
+    {
+        "name": "freeCodeCamp Responsive Web Design Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "freeCodeCamp JavaScript Algorithms and Data Structures Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "freeCodeCamp Front End Development Libraries Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "freeCodeCamp Data Visualization Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "freeCodeCamp Relational Database Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+    },
+    {
+        "name": "freeCodeCamp Back End Development and APIs Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+    }
+    ]
+},
+"skills_map": {
+    "technical_skills": {
+    "programming_languages": ["Python", "JavaScript", "TypeScript"],
+    "ml_ai": ["Machine Learning", "Deep Learning", "Reinforcement Learning", "RAG", "Prompt Engineering", "Model Fine-tuning", "End-to-end ML pipeline
+development", "CNN training with PyTorch", "RAG systems with LangChain and Ollama"],
+    "data": ["Data Analysis", "Data Visualization", "Statistics", "Experimentation", "Data pipeline orchestration"],
+    "backend": ["Express.js", "Nest.js", "FastAPI", "API design", "Authentication", "Encryption", "Data pipeline design", "Containerized API
+deployment"],
+    "frontend": ["React", "Redux", "Next.js", "Context API", "React Hooks"],
+    "databases": ["SQL", "NoSQL", "PostgreSQL", "MySQL", "MongoDB"],
+    "tools_platforms": ["Git", "WSL", "CLI", "Excel", "PowerPoint", "n8n", "Jest", "Mocha", "Puppeteer", "Docker", "GitHub Actions", "MLflow",
+"Airflow", "pytest", "Ollama", "LangChain"],
+    "math_theory": ["Data structures and algorithms", "Discrete mathematics", "Linear algebra", "Probability and statistics", "Pattern recognition"]
+    },
+    "soft_skills": ["Problem solving", "Structured thinking", "Teaching", "Planning", "Writing"],
+    "evidence_of_discipline": [
+    {
+        "claim": "Consistency",
+        "evidence": "GitHub commit history",
+        "link": ""
+    }
+    ]
+},
+"projects": [
+    {
+    "name": "Tehran Ride-Demand Profitability Heatmap (Reverse-Engineered Data Pipeline)",
+    "role": "Full-stack JavaScript Developer (Project Owner)",
+    "category": "Data | Web | Automation",
+    "problem": "Identify the most profitable inter-district trips in Tehran by estimating demand-price behavior across 22 districts.",
+    "solution": "Built a Puppeteer-based reverse-engineering and data collection pipeline with a minimal Express.js backend and PostgreSQL integration
+to compute and visualize profitable routes as heatmaps.",
+    "tech_stack": ["JavaScript", "Puppeteer", "Express.js", "PostgreSQL"],
+    "impact": {
+        "metrics": ["22 districts modeled", "~20-day long-run binary price fetching cycle to cover district-to-district combinations"],
+        "business_value": "Established a framework for demand-aware route profitability analysis for ride-hailing strategy."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    },
+    "challenges": ["API calling performance bottleneck while collecting full area-to-area pricing data at scale"]
+    },
+    {
+    "name": "PPO Portfolio Budgeting AI Agent (Thesis RL Environment Demo)",
+    "role": "ML/AI Engineer (Research Project Lead)",
+    "category": "ML | AI",
+    "problem": "Create an AI agent that generates and evaluates diverse project-portfolio budgeting decisions under changing states and constraints.",
+    "solution": "Formulated a project portfolio optimization environment and built PPO-based RL experimentation workflow with notebook-driven
+documentation.",
+    "tech_stack": ["Python", "Reinforcement Learning", "PPO", "Jupyter Notebooks"],
+    "impact": {
+        "metrics": ["Custom environment formulation documented", "Synthetic/project-portfolio state generation workflow created"],
+        "business_value": "Demonstrated independent problem formulation and implementation for thesis-critical AI budgeting research."
+    },
+    "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "ML Engineering Job Prep Portfolio",
+    "role": "ML Engineer (Project-based training track)",
+    "category": "ML | MLOps | Deployment",
+    "problem": "Build practical, production-relevant skills for a mid-level Machine Learning Engineer role through structured projects.",
+    "solution": "Developed a 10-project roadmap covering classical ML, deep learning, serving, cloud deployment, CI/CD, RAG, experiment tracking, data
+pipelines, and testing.",
+    "tech_stack": ["Python", "scikit-learn", "PyTorch", "FastAPI", "Docker", "GitHub Actions", "LangChain", "Ollama", "MLflow", "Airflow", "pytest"],
+    "impact": {
+        "metrics": ["10 documented projects", "End-to-end coverage from model development to deployment and monitoring", "Issue/PR-driven workflow via
+GitHub Projects"],
+        "business_value": "Demonstrates job-ready breadth for ML engineering with hands-on execution across the full lifecycle."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Classic ML Pipeline (House Prices)",
+    "role": "ML Engineer",
+    "category": "ML | Data",
+    "problem": "Deliver end-to-end regression workflow for structured tabular data.",
+    "solution": "Built data preprocessing, feature handling, model selection, and evaluation pipeline on House Prices dataset.",
+    "tech_stack": ["Python", "scikit-learn", "EDA"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Shows practical competency in baseline supervised ML pipeline construction."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/01-classic-ml-pipeline",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Deep Learning with PyTorch (CIFAR-10)",
+    "role": "ML Engineer",
+    "category": "ML | Deep Learning",
+    "problem": "Train image classification model on CIFAR-10.",
+    "solution": "Implemented CNN training workflow with augmentation and custom training loops in PyTorch.",
+    "tech_stack": ["Python", "PyTorch", "CNN"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Demonstrates practical deep learning model development and experimentation."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/02-deep-learning-cifar",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Model Serving with FastAPI & Docker",
+    "role": "ML Engineer",
+    "category": "MLOps | API",
+    "problem": "Operationalize trained model behind a stable API.",
+    "solution": "Packaged model inference service as containerized FastAPI REST endpoint.",
+    "tech_stack": ["FastAPI", "Docker", "Python", "REST API"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Proves ability to bridge model training and production serving."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/03-model-serving-fastapi",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Cloud Deployment",
+    "role": "ML Engineer",
+    "category": "Cloud | Deployment",
+    "problem": "Deploy containerized ML service to cloud infrastructure.",
+    "solution": "Implemented deployment workflow targeting AWS/GCP/Azure patterns with scaling considerations.",
+    "tech_stack": ["Cloud platforms", "Docker", "Serverless"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Shows readiness for cloud-native ML service deployment."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/04-cloud-deployment",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "CI/CD for ML with GitHub Actions",
+    "role": "ML Engineer",
+    "category": "MLOps | CI/CD",
+    "problem": "Automate quality checks and integration flow for ML codebases.",
+    "solution": "Built GitHub Actions pipelines for automated testing and workflow validation.",
+    "tech_stack": ["GitHub Actions", "CI/CD", "Automation"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Improves reliability and delivery speed with repeatable automation."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/05-ci-cd-github-actions",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "RAG with LangChain & Ollama",
+    "role": "AI Engineer",
+    "category": "AI | LLM",
+    "problem": "Build retrieval-augmented generation workflow for grounded responses.",
+    "solution": "Implemented RAG pipeline using LangChain, local model runtime, and vector retrieval concepts.",
+    "tech_stack": ["LangChain", "Ollama", "RAG", "Prompt Engineering"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Demonstrates applied LLM engineering beyond prompt-only usage."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/06-rag-langchain",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Experiment Tracking with MLflow",
+    "role": "ML Engineer",
+    "category": "MLOps",
+    "problem": "Track and compare ML experiments reproducibly.",
+    "solution": "Set up MLflow logging for hyperparameters, metrics, and model artifacts.",
+    "tech_stack": ["MLflow", "Python", "Experiment Tracking"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Supports reproducibility and auditability in model development."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/07-mlflow-tracking",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Data Pipeline with Airflow",
+    "role": "ML/Data Engineer",
+    "category": "Data | MLOps",
+    "problem": "Automate recurring data fetch and preprocessing tasks.",
+    "solution": "Built orchestration flow for data ingestion and preprocessing using Airflow concepts.",
+    "tech_stack": ["Airflow", "Python", "Data Pipelines"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Demonstrates production-style data workflow orchestration."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/08-data-pipeline",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Testing for ML",
+    "role": "ML Engineer",
+    "category": "Quality | Testing",
+    "problem": "Increase confidence in ML modules through systematic tests.",
+    "solution": "Implemented unit/integration-style testing patterns including mocking and coverage checks.",
+    "tech_stack": ["pytest", "mocking", "code coverage"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Improves maintainability and reduces regressions in ML code."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/09-testing",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    },
+    {
+    "name": "Open Source Contribution",
+    "role": "Contributor",
+    "category": "Collaboration | Engineering",
+    "problem": "Build real-world collaboration skills through open-source workflow.",
+    "solution": "Completed contribution flow with issue discussion, PR submission, and code review iteration.",
+    "tech_stack": ["Git", "GitHub", "Pull Requests", "Code Review"],
+    "impact": {
+        "metrics": [],
+        "business_value": "Shows team-readiness and collaborative software development discipline."
+    },
+    "links": {
+        "repo": "https://github.com/UDynamic/ML-Engineering-job-Prep/tree/main/projects/10-open-source-contribution",
+        "demo": "",
+        "case_study": ""
+    },
+    "dates": {
+        "start": "",
+        "end": ""
+    }
+    }
+],
+"portfolio_highlights": [
+    "ML engineering job prep projects",
+    "Autonomous budgeting DRL AI",
+    "Robotic arm trajectory planning for assembly in microgravity",
+    "Tehran ride-demand profitability heatmap exploration",
+    "Front-end projects"
+],
+"experience": [
+    {
+    "title": "",
+    "company": "",
+    "location": "",
+    "employment_type": "",
+    "start_date": "",
+    "end_date": "",
+    "is_current": false,
+    "responsibilities": [],
+    "achievements": [
+        {
+        "statement": "",
+        "metric": ""
+        }
+    ],
+    "tools_used": []
+    }
+],
+"knowledge_domains": {
+    "current_focus": ["Machine Learning Engineering", "AI Engineering", "Data Analytics"],
+    "ai_system_design": ["Prompt engineering", "End-to-end ML system design", "RAG implementation", "AI fine-tuning", "Workflow automation"],
+    "workflow_automation_tools": ["n8n", "OpenClaw"]
+},
+"interview_strategy": {
+    "narrative_points": [
+    "I actively seek complex, high-impact problems.",
+    "I build trust over time through consistent delivery.",
+    "I prefer depth and rigor when solving hard challenges."
+    ],
+    "questions_to_ask_employers": [
+    "What are the team's biggest short-term and long-term technical bottlenecks?",
+    "Which problems are repeatedly deferred because they are hard to solve?",
+    "How is success measured for this role in the first 3, 6, and 12 months?"
+    ]
+},
+"future": {
+    "vision": "Expand the edge of knowledge in AI and robotics at world-class level",
+    "long_term_goals": ["Build expertise in multi-agent systems", "Develop strong MLOps capability", "Contribute to world-class AI and robotics
+research"],
+    "research_interests": ["AI", "Robotics", "Human intelligence modeling", "Reinforcement Learning", "Deep Reinforcement Learning", "Microgravity
+robotics"]
+},
+"resume_generation_controls": {
+    "tone_options": ["Formal", "Technical", "Executive", "Founder-style"],
+    "role_specific_emphasis": {
+    "data_analyst": ["Analytics impact", "Dashboards", "Experimentation", "Stakeholder communication"],
+    "ml_engineer": ["Model lifecycle", "MLOps", "Deployment", "Performance metrics"],
+    "ai_engineer": ["LLM applications", "RAG", "Agent workflows", "Evaluation"]
+    },
+    "exclude_for_resume": ["Overly personal claims", "Unverifiable superlatives"]
+},
+"custom_notes": {
+    "raw_statements_to_refine": ["I can do neural network backpropagation on paper.", "I know it from scratch.", "I am in search of problems."],
+    "items_needing_verification": [
+    "Exam rank documents",
+    "Degree and thesis records",
+    "Project metrics and links",
+    "freeCodeCamp certificate URLs for all completed tracks",
+    "Repository/demo links for FCC certification projects",
+    "ULDSS project repo metrics and screenshots",
+    "Thesis proposal metadata and supervisor details for portfolio budgeting agent",
+    "GitHub links and result metrics for each ML Engineering job prep sub-project"
+    ]
+},
+"learning_journey": {
+    "summary": "Accelerated full-stack JavaScript learning path followed by a Python pivot to deliver a thesis-critical RL budgeting agent.",
+    "phases": [
+    {
+        "phase": "Full-stack JavaScript acceleration",
+        "focus": ["React ecosystem", "Express.js backend", "Project-based building"],
+        "context": "Fast-tracked toward full-stack readiness while completing freeCodeCamp certifications."
+    },
+    {
+        "phase": "Databases and data pipelines",
+        "focus": ["PostgreSQL (primary)", "MySQL (tutorial exposure)", "MongoDB (tutorial exposure)"],
+        "context": "Built client-to-database pipeline using minimal Express.js backend and end-to-end data flow design."
+    },
+    {
+        "phase": "React specialization",
+        "focus": ["React Hooks", "Redux", "Context API", "Authentication/login patterns"],
+        "context": "Studied modern front-end architecture and state management patterns for production-style apps."
+    },
+    {
+        "phase": "Testing and engineering discipline",
+        "focus": ["Jest", "Mocha"],
+        "context": "Practiced unit/integration-oriented testing patterns while following full-stack tutorials."
+    },
+    {
+        "phase": "TypeScript transition",
+        "focus": ["TypeScript with React", "Type-safe Express/Nest usage", "Bundlers and type-checking workflow"],
+        "context": "Improved reliability and maintainability through typed development."
+    },
+    {
+        "phase": "Python and RL pivot for thesis",
+        "focus": ["Reinforcement learning environment design", "Portfolio budgeting agent formulation", "Research-oriented implementation"],
+        "context": "Switched priority due to thesis proposal and delivery deadlines."
+    },
+    {
+        "phase": "ML Engineering job-prep execution",
+        "focus": [
+        "Classic ML pipelines",
+        "Deep learning with PyTorch",
+        "Model serving with FastAPI + Docker",
+        "Cloud deployment",
+        "CI/CD for ML",
+        "RAG systems",
+        "MLflow tracking",
+        "Airflow pipelines",
+        "ML testing",
+        "Open-source workflow"
+        ],
+        "context": "Built a complete project-based portfolio to close the gap between theory and production ML engineering."
+    }
+    ]
+}
+}
