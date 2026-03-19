@@ -394,6 +394,60 @@
         "demo": "",
         "case_study": ""
       }
+    },
+    {
+      "name": "RAG4Konkur",
+      "category": "Applied AI / Local LLM / Exam Preparation",
+      "problem": "Needed an adaptive study assistant for National PhD exam preparation with subject-specific recall testing.",
+      "solution": "Implemented a local LLM workflow (Ollama, to verify) on shared IUST A100 80GB infrastructure; designed flashcard-style prompting to quiz and evaluate exam readiness across key subjects.",
+      "context": {
+        "institution": "Iran University of Science and Technology (IUST)",
+        "compute": "Shared NVIDIA A100 80GB (to verify exact allocation/runtime)",
+        "deployment_mode": "Local/on-prem style setup (details to verify)",
+        "llm_runtime": "Ollama (to verify exact version and stack)",
+        "phase": "Preparation for National PhD exam"
+      },
+      "exam_focus": {
+        "exam": "National PhD Exam",
+        "subjects": [
+          "Data Structures",
+          "Pattern Recognition",
+          "Machine Learning"
+        ],
+        "study_method": "Flashcard-based active recall with LLM-generated questioning"
+      },
+      "training_and_tuning": {
+        "objective": "Potential fine-tuning/adaptation for domain-specific questioning behavior",
+        "status": "Planned or partially implemented (to verify)",
+        "approach_placeholder": "SFT/PEFT prompt-tuning strategy details pending",
+        "evaluation_placeholder": "Question quality, coverage, and learner accuracy metrics pending"
+      },
+      "assets": {
+        "flashcard_prompts_path": "",
+        "prompt_templates_path": "",
+        "question_bank_path": "",
+        "evaluation_notebooks_path": "",
+        "training_scripts_path": "",
+        "inference_scripts_path": "",
+        "configs_path": "",
+        "notes": "User will provide artifact paths later."
+      },
+      "tech_stack": [
+        "Python",
+        "Ollama (to verify)",
+        "Local LLM inference",
+        "Prompt engineering",
+        "RAG pipeline (if used; to verify)"
+      ],
+      "impact": {
+        "metrics": [],
+        "business_value": "Demonstrates practical LLM systems thinking for education workflows and self-evaluation under exam constraints."
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      }
     }
   ],
   "skills": {
@@ -503,7 +557,12 @@
       "Military status wording for formal CV use",
       "Exact dates in Gregorian format",
       "English proficiency proof level",
-      "Any publication/certification documents"
+      "Any publication/certification documents",
+      "RAG4Konkur exact stack details (Ollama version/model/runtime)",
+      "IUST compute access details (shared A100 80GB usage window)",
+      "Flashcard prompt artifacts and file paths",
+      "Fine-tuning/adaptation status and method",
+      "Evaluation results for PhD-subject question quality"
     ]
   }
 }
