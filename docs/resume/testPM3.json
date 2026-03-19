@@ -67,10 +67,8 @@
     }
 },
 "personal_brand": {
-    "positioning_statement": "AI Engineer with an academic research focus in reinforcement learning and robotics, plus full-stack software engineering
-experience.",
-    "professional_summary": "Self-directed AI Engineer with Industrial Engineering background, practical product leadership experience, and hands-on
-delivery across RL systems, robotics simulations, and automation workflows.",
+    "positioning_statement": "AI Engineer with an academic research focus in reinforcement learning and robotics, plus full-stack software engineering experience.",
+    "professional_summary": "Self-directed AI Engineer with Industrial Engineering background, practical product leadership experience, and hands-on delivery across RL systems, robotics simulations, and automation workflows.",
     "about_me_short": [
     "AI Engineer",
     "Academic AI researcher (Reinforcement Learning, Robotics)",
