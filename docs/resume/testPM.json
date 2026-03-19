@@ -1,0 +1,416 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-03-19",
+    "purpose": "Master personal context map for generating role-specific resumes",
+    "notes": "Fill placeholders with specific, verifiable details."
+  },
+  "identity": {
+    "full_name": "",
+    "headline": "",
+    "location": "",
+    "email": "",
+    "phone": "",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "website": ""
+  },
+  "career_targets": {
+    "open_to_positions": [
+      "Data Analyst",
+      "ML Engineer",
+      "AI Engineer"
+    ],
+    "target_roles_priority": [
+      {
+        "role": "",
+        "priority": 1,
+        "reason": ""
+      }
+    ],
+    "preferred_industries": [],
+    "preferred_company_stage": "",
+    "preferred_work_type": [
+      "On-site",
+      "Hybrid",
+      "Remote"
+    ],
+    "preferred_locations": [],
+    "salary_expectation": {
+      "currency": "",
+      "min": null,
+      "target": null,
+      "max": null
+    }
+  },
+  "personal_brand": {
+    "positioning_statement": "",
+    "professional_summary": "",
+    "core_identity": [
+      "Scientist",
+      "Mathematician",
+      "Problem Solver",
+      "Teacher",
+      "Planner",
+      "Writer"
+    ],
+    "work_style": {
+      "depth_over_speed": true,
+      "notes": ""
+    },
+    "values": [
+      {
+        "name": "Honesty",
+        "level": "Highest",
+        "evidence": ""
+      },
+      {
+        "name": "Fidelity",
+        "level": "Highest",
+        "evidence": ""
+      }
+    ],
+    "most_important_feelings": [
+      "Being the wisest",
+      "Pride",
+      "Accomplishment",
+      "Progress"
+    ],
+    "sources_of_pride": [
+      "Exceptional results",
+      "Complex problem solving",
+      "Creation",
+      "Assembly",
+      "Automation",
+      "Optimization"
+    ]
+  },
+  "background": {
+    "education_foundation": "Industrial Engineering (Engineering Management)",
+    "past_skills": [
+      "Data analysis",
+      "Data visualization",
+      "Progress reports",
+      "Management reports",
+      "Delay analysis and planning"
+    ],
+    "past_tools": [
+      "Social skills",
+      "Excel",
+      "PowerPoint"
+    ],
+    "past_domain_experience": [],
+    "languages": [
+      {
+        "language": "",
+        "proficiency": ""
+      }
+    ]
+  },
+  "career_transition": {
+    "career_break": {
+      "start_date": "",
+      "end_date": "",
+      "summary": "",
+      "dissatisfactions": [
+        "Personality incompatibility",
+        "No real evidence of growth and progress",
+        "Low social status"
+      ],
+      "motivation": "Urge for deep mastery in computer science, AI, and automation",
+      "justification": "Top-level outcomes in modern fields require deep and sustained computing-focused practice"
+    },
+    "experimental_practices": [
+      {
+        "domain": "Financial Engineering and Quantitative Analysis",
+        "areas_explored": [
+          "Accounting",
+          "Marketing",
+          "Financial markets"
+        ],
+        "projects": []
+      },
+      {
+        "domain": "Front-End Web Development",
+        "stack": [
+          "React",
+          "Redux",
+          "Next.js"
+        ],
+        "areas_explored": [
+          "Infrastructure (WSL, CLI, OS, hardware)",
+          "Databases (SQL, NoSQL)",
+          "UI/UX design",
+          "Landing pages",
+          "QA"
+        ],
+        "projects": []
+      },
+      {
+        "domain": "Back-End Web Development",
+        "stack": [
+          "Express.js",
+          "Nest.js"
+        ],
+        "areas_explored": [
+          "Security (authentication, encryption)",
+          "Database management",
+          "End-to-end data pipelines",
+          "Design patterns (factory, strategy, template)"
+        ],
+        "projects": []
+      },
+      {
+        "domain": "Machine Learning and AI",
+        "areas_explored": [],
+        "projects": []
+      }
+    ],
+    "found_passions": [
+      "Mathematics",
+      "Machine Learning and AI",
+      "Robotics (micro-gravity focus)"
+    ]
+  },
+  "education": [
+    {
+      "degree": "",
+      "field": "",
+      "institution": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "gpa": "",
+      "rank_or_grade": "",
+      "relevant_coursework": [],
+      "thesis": {
+        "title": "",
+        "summary": "",
+        "link": ""
+      }
+    }
+  ],
+  "achievements": {
+    "competitions_and_exams": [
+      {
+        "name": "Master's Grades",
+        "result": "Rank A",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "Master's Thesis",
+        "result": "Developed budgeting AI agent",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "National PhD Exam for Computer Engineering (AI & Robotics)",
+        "result": "Rank 1",
+        "year": "",
+        "verification": ""
+      }
+    ],
+    "awards": [],
+    "publications": [],
+    "certifications": []
+  },
+  "skills_map": {
+    "technical_skills": {
+      "programming_languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "ml_ai": [
+        "Machine Learning",
+        "Deep Learning",
+        "Reinforcement Learning",
+        "RAG",
+        "Prompt Engineering",
+        "Model Fine-tuning"
+      ],
+      "data": [
+        "Data Analysis",
+        "Data Visualization",
+        "Statistics",
+        "Experimentation"
+      ],
+      "backend": [
+        "Express.js",
+        "Nest.js",
+        "API design",
+        "Authentication",
+        "Encryption"
+      ],
+      "frontend": [
+        "React",
+        "Redux",
+        "Next.js"
+      ],
+      "databases": [
+        "SQL",
+        "NoSQL"
+      ],
+      "tools_platforms": [
+        "Git",
+        "WSL",
+        "CLI",
+        "Excel",
+        "PowerPoint",
+        "n8n"
+      ],
+      "math_theory": [
+        "Data structures and algorithms",
+        "Discrete mathematics",
+        "Linear algebra",
+        "Probability and statistics",
+        "Pattern recognition"
+      ]
+    },
+    "soft_skills": [
+      "Problem solving",
+      "Structured thinking",
+      "Teaching",
+      "Planning",
+      "Writing"
+    ],
+    "evidence_of_discipline": [
+      {
+        "claim": "Consistency",
+        "evidence": "GitHub commit history",
+        "link": ""
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "",
+      "role": "",
+      "category": "ML | Data | AI | Web | Automation",
+      "problem": "",
+      "solution": "",
+      "tech_stack": [],
+      "impact": {
+        "metrics": [],
+        "business_value": ""
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    }
+  ],
+  "portfolio_highlights": [
+    "ML engineering job prep projects",
+    "Autonomous budgeting DRL AI",
+    "Front-end projects"
+  ],
+  "experience": [
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "employment_type": "",
+      "start_date": "",
+      "end_date": "",
+      "is_current": false,
+      "responsibilities": [],
+      "achievements": [
+        {
+          "statement": "",
+          "metric": ""
+        }
+      ],
+      "tools_used": []
+    }
+  ],
+  "knowledge_domains": {
+    "current_focus": [
+      "Machine Learning Engineering",
+      "AI Engineering",
+      "Data Analytics"
+    ],
+    "ai_system_design": [
+      "Prompt engineering",
+      "End-to-end ML system design",
+      "RAG implementation",
+      "AI fine-tuning",
+      "Workflow automation"
+    ],
+    "workflow_automation_tools": [
+      "n8n",
+      "OpenClaw"
+    ]
+  },
+  "interview_strategy": {
+    "narrative_points": [
+      "I actively seek complex, high-impact problems.",
+      "I build trust over time through consistent delivery.",
+      "I prefer depth and rigor when solving hard challenges."
+    ],
+    "questions_to_ask_employers": [
+      "What are the team's biggest short-term and long-term technical bottlenecks?",
+      "Which problems are repeatedly deferred because they are hard to solve?",
+      "How is success measured for this role in the first 3, 6, and 12 months?"
+    ]
+  },
+  "future": {
+    "vision": "Expand the edge of knowledge in AI and robotics at world-class level",
+    "long_term_goals": [],
+    "research_interests": [
+      "AI",
+      "Robotics",
+      "Human intelligence modeling"
+    ]
+  },
+  "resume_generation_controls": {
+    "tone_options": [
+      "Formal",
+      "Technical",
+      "Executive",
+      "Founder-style"
+    ],
+    "role_specific_emphasis": {
+      "data_analyst": [
+        "Analytics impact",
+        "Dashboards",
+        "Experimentation",
+        "Stakeholder communication"
+      ],
+      "ml_engineer": [
+        "Model lifecycle",
+        "MLOps",
+        "Deployment",
+        "Performance metrics"
+      ],
+      "ai_engineer": [
+        "LLM applications",
+        "RAG",
+        "Agent workflows",
+        "Evaluation"
+      ]
+    },
+    "exclude_for_resume": [
+      "Overly personal claims",
+      "Unverifiable superlatives"
+    ]
+  },
+  "custom_notes": {
+    "raw_statements_to_refine": [
+      "I can do neural network backpropagation on paper.",
+      "I know it from scratch.",
+      "I am in search of problems."
+    ],
+    "items_needing_verification": [
+      "Exam rank documents",
+      "Degree and thesis records",
+      "Project metrics and links"
+    ]
+  }
+}
