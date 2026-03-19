@@ -27,11 +27,13 @@
         "role": "Ml engineer",
         "priority": 1,
         "reason": "inline with latest projects and academic study"
-      }, {
+      },
+      {
         "role": "Ai engineer",
         "priority": 2,
         "reason": "inline with latest projects and academic study. maybe ambitious for corrent knowledge and skills"
-      }, {
+      },
+      {
         "role": "Python developer",
         "priority": 3,
         "reason": "general positioning around the python coding as the main language of focus for AI and ML"
@@ -47,7 +49,9 @@
       "Hybrid",
       "Remote"
     ],
-    "preferred_locations": ["Tehran is ideal for my current location being there"],
+    "preferred_locations": [
+      "Tehran is ideal for my current location being there"
+    ],
     "salary_expectation": {
       "currency": "Iranian Millon Tomans",
       "min": 40,
@@ -225,7 +229,44 @@
     ],
     "awards": [],
     "publications": [],
-    "certifications": []
+    "certifications": [
+      {
+        "name": "freeCodeCamp Responsive Web Design Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp JavaScript Algorithms and Data Structures Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Front End Development Libraries Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Data Visualization Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Relational Database Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Back End Development and APIs Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      }
+    ]
   },
   "skills_map": {
     "technical_skills": {
@@ -252,12 +293,15 @@
         "Nest.js",
         "API design",
         "Authentication",
-        "Encryption"
+        "Encryption",
+        "Data pipeline design"
       ],
       "frontend": [
         "React",
         "Redux",
-        "Next.js"
+        "Next.js",
+        "Context API",
+        "React Hooks"
       ],
       "databases": [
         "SQL",
@@ -269,7 +313,10 @@
         "CLI",
         "Excel",
         "PowerPoint",
-        "n8n"
+        "n8n",
+        "Jest",
+        "Mocha",
+        "Puppeteer"
       ],
       "math_theory": [
         "Data structures and algorithms",
@@ -315,6 +362,69 @@
         "start": "",
         "end": ""
       }
+    },
+    {
+      "name": "Tehran Ride-Demand Profitability Heatmap (Reverse-Engineered Data Pipeline)",
+      "role": "Full-stack JavaScript Developer (Project Owner)",
+      "category": "Data | Web | Automation",
+      "problem": "Identify the most profitable inter-district trips in Tehran by estimating demand-price behavior across 22 districts.",
+      "solution": "Built a Puppeteer-based reverse-engineering and data collection pipeline with a minimal Express.js backend and database integration to compute and visualize profitable routes as heatmaps.",
+      "tech_stack": [
+        "JavaScript",
+        "Puppeteer",
+        "Express.js",
+        "PostgreSQL"
+      ],
+      "impact": {
+        "metrics": [
+          "22 districts modeled",
+          "~20-day long-run binary price fetching cycle to cover district-to-district combinations"
+        ],
+        "business_value": "Established a framework for demand-aware route profitability analysis for ride-hailing strategy."
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "local_path": "F:/Career/02. Computer Science/2. Software Engineering/98. Projects/01. ULDSS",
+      "challenges": [
+        "API calling performance bottleneck while collecting full area-to-area pricing data at scale"
+      ]
+    },
+    {
+      "name": "PPO Portfolio Budgeting AI Agent (Thesis RL Environment Demo)",
+      "role": "ML/AI Engineer (Research Project Lead)",
+      "category": "ML | AI",
+      "problem": "Create an AI agent that generates and evaluates diverse project-portfolio budgeting decisions under changing states and constraints.",
+      "solution": "Formulated a project portfolio optimization environment and built PPO-based RL experimentation workflow with notebook-driven documentation.",
+      "tech_stack": [
+        "Python",
+        "Reinforcement Learning",
+        "PPO",
+        "Jupyter Notebooks"
+      ],
+      "impact": {
+        "metrics": [
+          "Custom environment formulation documented",
+          "Synthetic/project-portfolio state generation workflow created"
+        ],
+        "business_value": "Demonstrated independent problem formulation and implementation for thesis-critical AI budgeting research."
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "local_path": "F:/Career/00. Univesity/Masters/05. Master's thesis/PPO-project-portfolio-budgeting-AI-agent/notebooks"
     }
   ],
   "portfolio_highlights": [
@@ -421,7 +531,70 @@
     "items_needing_verification": [
       "Exam rank documents",
       "Degree and thesis records",
-      "Project metrics and links"
+      "Project metrics and links",
+      "freeCodeCamp certificate URLs for all completed tracks",
+      "Repository/demo links for FCC certification projects",
+      "ULDSS project repo metrics and screenshots",
+      "Thesis proposal metadata and supervisor details for portfolio budgeting agent"
+    ]
+  },
+  "learning_journey": {
+    "summary": "Accelerated full-stack JavaScript learning path followed by a Python pivot to deliver a thesis-critical RL budgeting agent.",
+    "phases": [
+      {
+        "phase": "Full-stack JavaScript acceleration",
+        "focus": [
+          "React ecosystem",
+          "Express.js backend",
+          "Project-based building"
+        ],
+        "context": "Fast-tracked toward full-stack readiness while completing freeCodeCamp certifications."
+      },
+      {
+        "phase": "Databases and data pipelines",
+        "focus": [
+          "PostgreSQL (primary)",
+          "MySQL (tutorial exposure)",
+          "MongoDB (tutorial exposure)"
+        ],
+        "context": "Built client-to-database pipeline using minimal Express.js backend and end-to-end data flow design."
+      },
+      {
+        "phase": "React specialization",
+        "focus": [
+          "React Hooks",
+          "Redux",
+          "Context API",
+          "Authentication/login patterns"
+        ],
+        "context": "Studied modern front-end architecture and state management patterns for production-style apps."
+      },
+      {
+        "phase": "Testing and engineering discipline",
+        "focus": [
+          "Jest",
+          "Mocha"
+        ],
+        "context": "Practiced unit/integration-oriented testing patterns while following full-stack tutorials."
+      },
+      {
+        "phase": "TypeScript transition",
+        "focus": [
+          "TypeScript with React",
+          "Type-safe Express/Nest usage",
+          "Bundlers and type-checking workflow"
+        ],
+        "context": "Improved reliability and maintainability through typed development."
+      },
+      {
+        "phase": "Python and RL pivot for thesis",
+        "focus": [
+          "Reinforcement learning environment design",
+          "Portfolio budgeting agent formulation",
+          "Research-oriented implementation"
+        ],
+        "context": "Switched priority due to thesis proposal and delivery deadlines."
+      }
     ]
   }
 }
