@@ -7,6 +7,26 @@ This project includes a no-dependency generator script that creates:
 - `project_summary.md` + `project_summary.pdf`
 - a zip bundle containing all files
 
+## One Command: Raw Text to Full Submission Package
+
+```bash
+python3 scripts/raw_to_submission_pipeline.py \
+  --candidate "Your Name"
+```
+
+This command runs the complete flow:
+
+- `jobPostings/raw/*.txt` -> normalized `jobPostings/*.md`
+- generated job posting markdown -> submission `markdown/`, `pdf/`, and `.zip` under `submissions/`
+
+You can also target a single file:
+
+```bash
+python3 scripts/raw_to_submission_pipeline.py \
+  --candidate "Your Name" \
+  --raw-file "jobPostings/raw/2026-03-20_jobinja_company_role_tehran.txt"
+```
+
 ## Recommended Run (matches job posting filename format)
 
 ```bash
