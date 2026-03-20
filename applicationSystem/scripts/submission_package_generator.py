@@ -12,6 +12,7 @@ import textwrap
 from dataclasses import dataclass
 from datetime import datetime
 from pathlib import Path
+from typing import Optional
 from zipfile import ZIP_DEFLATED, ZipFile
 
 
@@ -202,8 +203,20 @@ Sincerely,
     }
 
 
-def prepare_paths(base_dir: Path, company: str, run_name: str | None) -> PackagePaths:
-    folder = sanitize_name(run_name or company)
+def resolve_output_folder(run_name: Optional[str], company: str, job_posting_md: Optional[str]) -> str:
+    if job_posting_md:
+        job_posting_path = Path(job_posting_md)
+        if not job_posting_path.exists():
+            raise FileNotFoundError(f"Job posting markdown not found: {job_posting_md}")
+        if job_posting_path.suffix.lower() != ".md":
+            raise ValueError("--job-posting-md must point to a markdown (.md) file")
+        return sanitize_name(job_posting_path.stem)
+
+    return sanitize_name(run_name or company)
+
+
+def prepare_paths(base_dir: Path, company: str, run_name: str | None, job_posting_md: Optional[str]) -> PackagePaths:
+    folder = resolve_output_folder(run_name=run_name, company=company, job_posting_md=job_posting_md)
     root = base_dir / folder
     markdown_dir = root / "markdown"
     pdf_dir = root / "pdf"
@@ -223,9 +236,9 @@ def create_zip(paths: PackagePaths) -> None:
             archive.write(pdf_file, arcname=f"pdf/{pdf_file.name}")
 
 
-def run(company: str, role: str, candidate: str, run_name: str | None) -> PackagePaths:
+def run(company: str, role: str, candidate: str, run_name: str | None, job_posting_md: Optional[str]) -> PackagePaths:
     base_dir = Path("submissions")
-    paths = prepare_paths(base_dir=base_dir, company=company, run_name=run_name)
+    paths = prepare_paths(base_dir=base_dir, company=company, run_name=run_name, job_posting_md=job_posting_md)
 
     templates = build_templates(company=company, role=role, candidate=candidate)
 
@@ -246,13 +259,20 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--company", required=True, help="Target company name.")
     parser.add_argument("--role", required=True, help="Target role title.")
     parser.add_argument("--candidate", required=True, help="Your full name.")
-    parser.add_argument("--run-name", help="Optional output folder name under submissions/.")
+    parser.add_argument("--run-name", help="Optional output folder name under submissions/ (ignored when --job-posting-md is set).")
+    parser.add_argument("--job-posting-md", help="Path to job posting markdown in jobPostings/. Output folder and zip use this filename stem.")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
-    paths = run(company=args.company, role=args.role, candidate=args.candidate, run_name=args.run_name)
+    paths = run(
+        company=args.company,
+        role=args.role,
+        candidate=args.candidate,
+        run_name=args.run_name,
+        job_posting_md=args.job_posting_md,
+    )
 
     print(f"Created markdown files: {paths.markdown_dir}")
     print(f"Created PDF files: {paths.pdf_dir}")
