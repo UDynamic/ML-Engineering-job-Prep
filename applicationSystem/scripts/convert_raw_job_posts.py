@@ -53,10 +53,42 @@ SECTION_KEYS = {
     "skills": ["skills", "required skills", "مهارت", "تخصص"],
 }
 
+SOURCE_ALIASES = {
+    "jobinja": "jobinja",
+    "jobinja.ir": "jobinja",
+    "linkedin": "linkedin",
+    "linkedin.com": "linkedin",
+    "quera": "quera",
+    "quera.org": "quera",
+    "jabama": "jabama",
+    "jabama.com": "jabama",
+}
+
+FIELD_PATTERNS = {
+    "company_en": [
+        r"^\s*company\s*[:\-]\s*(.+)$",
+        r"^\s*company name\s*[:\-]\s*(.+)$",
+        r"^\s*شرکت\s*[:\-]\s*(.+)$",
+    ],
+    "role_title": [
+        r"^\s*role\s*[:\-]\s*(.+)$",
+        r"^\s*title\s*[:\-]\s*(.+)$",
+        r"^\s*position\s*[:\-]\s*(.+)$",
+        r"^\s*job title\s*[:\-]\s*(.+)$",
+        r"^\s*عنوان(?:\s*شغلی)?\s*[:\-]\s*(.+)$",
+    ],
+    "location_city": [
+        r"^\s*location\s*[:\-]\s*(.+)$",
+        r"^\s*city\s*[:\-]\s*(.+)$",
+        r"^\s*محل\s*کار\s*[:\-]\s*(.+)$",
+        r"^\s*شهر\s*[:\-]\s*(.+)$",
+    ],
+}
+
 
 def slugify(value: str, fallback: str = "unknown") -> str:
     value = value.strip().lower().replace(" ", "-")
-    value = re.sub(r"[^\w\-]+", "-", value)
+    value = re.sub(r"[^a-z0-9\-_]+", "-", value)
     value = re.sub(r"-+", "-", value).strip("-")
     return value or fallback
 
@@ -122,6 +154,87 @@ def parse_filename_metadata(file_path: Path) -> Dict[str, str]:
         "location_slug": "unknown",
         "source_slug": "unknown",
     }
+
+
+def extract_first_match(text: str, patterns: List[str]) -> str:
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE | re.MULTILINE)
+        if match:
+            return match.group(1).strip()
+    return ""
+
+
+def detect_source_from_body(body: str, url: str) -> str:
+    source_value = ""
+    source_line = extract_first_match(
+        body,
+        [
+            r"^\s*source\s*[:\-]\s*(.+)$",
+            r"^\s*website\s*[:\-]\s*(.+)$",
+            r"^\s*platform\s*[:\-]\s*(.+)$",
+            r"^\s*منبع\s*[:\-]\s*(.+)$",
+        ],
+    )
+    if source_line:
+        source_value = source_line.strip().lower()
+
+    if not source_value and url:
+        if "jobinja" in url:
+            source_value = "jobinja"
+        elif "linkedin" in url:
+            source_value = "linkedin"
+        elif "quera" in url:
+            source_value = "quera"
+        elif "jabama" in url:
+            source_value = "jabama"
+
+    return SOURCE_ALIASES.get(source_value, source_value or "unknown")
+
+
+def clean_location(value: str) -> str:
+    cleaned = value.strip()
+    cleaned = re.sub(r"\s*\((remote|hybrid|on-?site)\)\s*$", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\s*[,/|].*$", "", cleaned).strip()
+    return cleaned or "Unknown"
+
+
+def infer_role_from_text(body: str) -> str:
+    explicit = extract_first_match(body, FIELD_PATTERNS["role_title"])
+    if explicit:
+        return explicit
+
+    for line in body.splitlines():
+        clean = line.strip()
+        if not clean:
+            continue
+        if re.search(
+            r"(engineer|developer|scientist|analyst|manager|specialist|intern|مهندس|دانشمند|تحلیلگر|کارشناس)",
+            clean,
+            flags=re.IGNORECASE,
+        ):
+            return clean
+    return "Unknown Role"
+
+
+def infer_company_from_text(body: str) -> str:
+    explicit = extract_first_match(body, FIELD_PATTERNS["company_en"])
+    if explicit:
+        return explicit
+    return "Unknown Company"
+
+
+def infer_location_from_text(body: str) -> str:
+    explicit = extract_first_match(body, FIELD_PATTERNS["location_city"])
+    if explicit:
+        return clean_location(explicit)
+    return "Unknown"
+
+
+def infer_saved_at_from_text(body: str) -> str:
+    direct = re.search(r"\b(20\d{2}-\d{2}-\d{2})\b", body)
+    if direct:
+        return direct.group(1)
+    return dt.date.today().isoformat()
 
 
 def collect_bullets(lines: Iterable[str]) -> List[str]:
@@ -323,14 +436,43 @@ def build_output_filename(meta: Dict[str, str]) -> str:
 
 def merge_metadata(file_meta: Dict[str, str], frontmatter_meta: Dict[str, str], body: str) -> Dict[str, str]:
     merged = {**file_meta, **frontmatter_meta}
-    source_value = merged.get("source", "unknown").strip().lower()
-    merged["source"] = SOURCE_CANONICAL.get(source_value, source_value)
-    merged["url"] = frontmatter_meta.get("url", extract_url(body))
+    url = frontmatter_meta.get("url", extract_url(body))
+    source_value = (
+        frontmatter_meta.get("source")
+        or detect_source_from_body(body, url)
+    ).strip().lower()
+    merged["source"] = SOURCE_CANONICAL.get(source_value, source_value or "unknown")
+    merged["url"] = url
+    merged["saved_at"] = frontmatter_meta.get("saved_at", infer_saved_at_from_text(body))
+    merged["company_en"] = frontmatter_meta.get("company_en", infer_company_from_text(body))
+    merged["role_title"] = frontmatter_meta.get("role_title", infer_role_from_text(body))
+    location_value = frontmatter_meta.get("location_city", infer_location_from_text(body))
+    merged["location_city"] = location_value
+    merged["location_province"] = frontmatter_meta.get("location_province", location_value)
+    merged["company_slug"] = slugify(merged["company_en"], fallback=file_meta.get("company_slug", "unknown-company"))
+    merged["role_slug"] = slugify(merged["role_title"], fallback=file_meta.get("role_slug", "unknown-role"))
+    merged["location_slug"] = slugify(merged["location_city"], fallback=file_meta.get("location_slug", "unknown"))
+    merged["source_slug"] = slugify(source_value or "unknown")
     merged["language"] = frontmatter_meta.get("language", detect_language(body))
     merged["work_type"] = frontmatter_meta.get("work_type", infer_work_type(body))
     merged["employment_type"] = frontmatter_meta.get("employment_type", infer_employment_type(body))
     merged["status"] = frontmatter_meta.get("status", "open")
     return merged
+
+
+def build_unique_output_path(out_dir: Path, output_name: str) -> Path:
+    candidate = out_dir / output_name
+    if not candidate.exists():
+        return candidate
+
+    stem = candidate.stem
+    suffix = candidate.suffix
+    index = 2
+    while True:
+        next_candidate = out_dir / f"{stem}_{index}{suffix}"
+        if not next_candidate.exists():
+            return next_candidate
+        index += 1
 
 
 def convert_file(raw_file: Path, out_dir: Path) -> Path:
@@ -340,7 +482,7 @@ def convert_file(raw_file: Path, out_dir: Path) -> Path:
     merged_meta = merge_metadata(file_meta, frontmatter_meta, body)
 
     output_name = build_output_filename(merged_meta)
-    output_path = out_dir / output_name
+    output_path = build_unique_output_path(out_dir, output_name)
 
     markdown = render_markdown(merged_meta, body)
     output_path.write_text(markdown.strip() + "\n", encoding="utf-8")
