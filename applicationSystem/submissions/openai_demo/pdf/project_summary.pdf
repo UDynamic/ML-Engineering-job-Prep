@@ -1,0 +1,83 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> >>
+endobj
+4 0 obj
+<< /Length 1242 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 742 Td
+(PROJECT SUMMARY) Tj
+T*
+(===============) Tj
+T*
+() Tj
+T*
+(WHY THIS PACKAGE EXISTS) Tj
+T*
+(=======================) Tj
+T*
+(? Provide a concise overview of ML engineering work relevant to ML Engineer at OpenAI.) Tj
+T*
+() Tj
+T*
+(PROJECT 1: APPLICATION SUBMISSION SYSTEM) Tj
+T*
+(========================================) Tj
+T*
+(? Designed a structured workflow for role-specific application materials.) Tj
+T*
+(? Automated generation of markdown artifacts and final delivery bundles.) Tj
+T*
+(? Reduced manual handoff time and improved consistency across submissions.) Tj
+T*
+() Tj
+T*
+(PROJECT 2: MODEL WORKFLOW TEMPLATE) Tj
+T*
+(==================================) Tj
+T*
+(? Created reusable conventions for data preparation, training, and evaluation.) Tj
+T*
+(? Emphasized reproducibility and clear metrics for decision-making.) Tj
+T*
+() Tj
+T*
+(PROJECT 3: DEPLOYMENT READINESS PRACTICES) Tj
+T*
+(=========================================) Tj
+T*
+(? Documented practical checks for reliability, logging, and maintainability.) Tj
+T*
+(? Focused on production-minded engineering tradeoffs.) Tj
+T*
+() Tj
+T*
+(OUTCOME) Tj
+T*
+(=======) Tj
+T*
+(? Demonstrates practical execution, automation mindset, and end-to-end ownership.) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000288 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1582
+%%EOF

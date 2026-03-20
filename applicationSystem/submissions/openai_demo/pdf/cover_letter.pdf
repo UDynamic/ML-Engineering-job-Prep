@@ -1,0 +1,77 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> >>
+endobj
+4 0 obj
+<< /Length 907 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 742 Td
+(COVER LETTER) Tj
+T*
+(============) Tj
+T*
+() Tj
+T*
+(March 20, 2026) Tj
+T*
+() Tj
+T*
+(Hiring Team) Tj
+T*
+(OpenAI) Tj
+T*
+() Tj
+T*
+(Dear Hiring Team,) Tj
+T*
+() Tj
+T*
+(I am excited to apply for the ML Engineer position at OpenAI. I bring practical machine) Tj
+T*
+(learning engineering experience across data pipelines, model development, and) Tj
+T*
+(production-ready deployment workflows.) Tj
+T*
+() Tj
+T*
+(In recent projects, I have delivered end-to-end systems that include data preparation, model) Tj
+T*
+(training, evaluation, and operational monitoring. I focus on building reliable ML solutions) Tj
+T*
+(with clean interfaces, measurable performance, and maintainable code.) Tj
+T*
+() Tj
+T*
+(I would value the opportunity to contribute this execution-focused mindset to OpenAI. Thank) Tj
+T*
+(you for your time and consideration.) Tj
+T*
+() Tj
+T*
+(Sincerely,) Tj
+T*
+(Your Name) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000288 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1246
+%%EOF
