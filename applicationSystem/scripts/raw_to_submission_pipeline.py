@@ -11,6 +11,17 @@ from typing import Dict, List, Optional, Tuple
 from convert_raw_job_posts import convert_file
 from submission_package_generator import run as generate_submission_package
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+
+def resolve_project_path(path_value: str) -> Path:
+    path = Path(path_value)
+    if path.is_absolute():
+        return path
+    if path.exists():
+        return path.resolve()
+    return (PROJECT_ROOT / path).resolve()
+
 
 def parse_frontmatter(markdown_text: str) -> Dict[str, str]:
     lines = markdown_text.splitlines()
@@ -67,12 +78,12 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    raw_dir = Path(args.raw_dir)
-    out_dir = Path(args.out_dir)
+    raw_dir = resolve_project_path(args.raw_dir)
+    out_dir = resolve_project_path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     if args.raw_file:
-        raw_files = [Path(args.raw_file)]
+        raw_files = [resolve_project_path(args.raw_file)]
     else:
         raw_files = sorted(raw_dir.glob(args.pattern))
 

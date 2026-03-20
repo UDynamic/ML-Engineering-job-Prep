@@ -1,0 +1,209 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+4 0 obj
+<< /Length 3106 >>
+stream
+0.98 0.98 0.99 rg
+0 0 612 792 re f
+0.84 0.86 0.90 RG
+0.6 w
+72 756 m 540 756 l S
+BT
+/F2 20.00 Tf
+0.080 0.160 0.320 rg
+1 0 0 1 72.00 716.00 Tm
+(Test Candidate - Resume \(Customized\)) Tj
+ET
+0.840 0.860 0.900 RG
+0.8 w
+72 696.00 m 540 696.00 l S
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 684.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 662.00 Tm
+(Target Role) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 642.00 Tm
+(- ??????? ML Engineer at Unknown Company) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 625.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 603.00 Tm
+(Summary) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 583.00 Tm
+(- Machine Learning Engineer focused on production ML systems, robust data workflows, and practical model iteration.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 566.00 Tm
+(- Comfortable owning the lifecycle from experimentation to deployment.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 549.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 527.00 Tm
+(Core Skills) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 507.00 Tm
+(- Python, SQL, feature engineering, model evaluation) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 490.00 Tm
+(- MLOps workflows, reproducibility, monitoring) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 473.00 Tm
+(- API integration, automation, and tooling) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 456.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 434.00 Tm
+(Experience Highlights) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 414.00 Tm
+(- Built and iterated ML pipelines with clear evaluation criteria and reproducible runs.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 397.00 Tm
+(- Improved system reliability through input validation, better observability, and cleaner interfaces.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 380.00 Tm
+(- Collaborated across product and engineering constraints to deliver measurable outcomes.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 363.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 341.00 Tm
+(Projects) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 321.00 Tm
+(- End-to-end ML application systems for role-targeted submissions.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 304.00 Tm
+(- Workflow automation scripts for packaging, reporting, and review.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 287.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 265.00 Tm
+(Links) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 245.00 Tm
+(- GitHub: <add-link>) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 228.00 Tm
+(- Portfolio: <add-link>) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 211.00 Tm
+(- LinkedIn: <add-link>) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 72 34 Tm
+(Submission package) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 500 34 Tm
+(Page 1 of 1) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000415 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+3573
+%%EOF

@@ -13,6 +13,19 @@ import re
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+
+def resolve_project_path(path_value: str) -> Path:
+    path = Path(path_value)
+    if path.is_absolute():
+        return path
+    cwd_candidate = (Path.cwd() / path).resolve()
+    if cwd_candidate.exists():
+        return cwd_candidate
+    return (PROJECT_ROOT / path).resolve()
+
+
 FILENAME_RE = re.compile(
     r"^(?P<date>\d{4}-\d{2}-\d{2})_(?P<source>[^_]+)_(?P<company>[^_]+)_(?P<role>[^_]+)_(?P<location>[^_]+)$"
 )
@@ -220,6 +233,15 @@ def infer_company_from_text(body: str) -> str:
     explicit = extract_first_match(body, FIELD_PATTERNS["company_en"])
     if explicit:
         return explicit
+    first_lines = [line.strip() for line in body.splitlines() if line.strip()][:5]
+    for line in first_lines:
+        bilingual_match = re.search(r"^[^|]+\|\s*([A-Za-z][A-Za-z0-9 .&'-]+)$", line)
+        if bilingual_match:
+            return bilingual_match.group(1).strip()
+    for line in first_lines:
+        latin_match = re.search(r"([A-Za-z][A-Za-z0-9 .&'-]{2,})", line)
+        if latin_match:
+            return latin_match.group(1).strip()
     return "Unknown Company"
 
 
@@ -227,6 +249,12 @@ def infer_location_from_text(body: str) -> str:
     explicit = extract_first_match(body, FIELD_PATTERNS["location_city"])
     if explicit:
         return clean_location(explicit)
+    next_line_match = re.search(r"موقعیت\s+مکانی\s*\n\s*([^\n]+)", body)
+    if next_line_match:
+        return clean_location(next_line_match.group(1))
+    location_match = re.search(r"\b(تهران|مشهد|اصفهان|شیراز|کرج|تبریز)\b", body)
+    if location_match:
+        return clean_location(location_match.group(1))
     return "Unknown"
 
 
@@ -499,8 +527,8 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
-    raw_dir = Path(args.raw_dir)
-    out_dir = Path(args.out_dir)
+    raw_dir = resolve_project_path(args.raw_dir)
+    out_dir = resolve_project_path(args.out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
     raw_files = sorted(raw_dir.glob(args.pattern))

@@ -1,0 +1,167 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+4 0 obj
+<< /Length 2506 >>
+stream
+0.98 0.98 0.99 rg
+0 0 612 792 re f
+0.84 0.86 0.90 RG
+0.6 w
+72 756 m 540 756 l S
+BT
+/F2 20.00 Tf
+0.080 0.160 0.320 rg
+1 0 0 1 72.00 716.00 Tm
+(Project Summary) Tj
+ET
+0.840 0.860 0.900 RG
+0.8 w
+72 696.00 m 540 696.00 l S
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 684.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 662.00 Tm
+(Why This Package Exists) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 642.00 Tm
+(- Provide a concise overview of ML engineering work relevant to ??????? ML Engineer at Snappfood.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 625.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 603.00 Tm
+(Project 1: Application Submission System) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 583.00 Tm
+(- Designed a structured workflow for role-specific application materials.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 566.00 Tm
+(- Automated generation of markdown artifacts and final delivery bundles.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 549.00 Tm
+(- Reduced manual handoff time and improved consistency across submissions.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 532.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 510.00 Tm
+(Project 2: Model Workflow Template) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 490.00 Tm
+(- Created reusable conventions for data preparation, training, and evaluation.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 473.00 Tm
+(- Emphasized reproducibility and clear metrics for decision-making.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 456.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 434.00 Tm
+(Project 3: Deployment Readiness Practices) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 414.00 Tm
+(- Documented practical checks for reliability, logging, and maintainability.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 397.00 Tm
+(- Focused on production-minded engineering tradeoffs.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 380.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 358.00 Tm
+(Outcome) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 338.00 Tm
+(- Demonstrates practical execution, automation mindset, and end-to-end ownership.) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 72 34 Tm
+(Submission package) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 500 34 Tm
+(Page 1 of 1) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000415 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+2973
+%%EOF
