@@ -204,27 +204,3 @@ Persian — Native
 English — Advanced
 
 ---
-
-✅ Mahriar, one **very important improvement** for Python developer roles is adding **GitHub‑visible Python stack keywords**.
-
-Example section many recruiters expect:
-
-### Python Stack
-
-Python  
-FastAPI / Flask  
-Pandas  
-NumPy  
-SQL  
-Docker  
-Git  
-Linux
-
-If you want, I can also build you a **much stronger “Senior Python Developer style resume”** that:
-
-- looks **10× more technical**
-- passes **ATS filters**
-- highlights **backend architecture**
-- makes your **AI work look like production Python engineering**
-
-It usually increases interview callbacks **a lot**.
