@@ -201,7 +201,7 @@ English — Advanced
 
 ---
 
---------------------------------
+---
 
 # Resume Version 2  
 # AI Engineer (Startup / Applied AI Focus)
