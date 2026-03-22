@@ -338,21 +338,3 @@ Persian — Native
 English — Advanced
 
 ---
-
-✅ Mahriar, one more **important improvement** I strongly recommend:
-
-Your resume will become **3× stronger** if we add a **Technical Stack section like ML engineers do**.
-
-Example:
-
-Python  
-PyTorch  
-TensorFlow  
-NumPy  
-Pandas  
-Gym / RL environments  
-Docker  
-Git  
-Linux
-
-Right now **your resume lacks those keywords**, and **ATS systems search exactly for them**.
