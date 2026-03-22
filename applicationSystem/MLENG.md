@@ -1,12 +1,3 @@
-Mahriar, I will give you **two optimized resumes** used in real ML hiring pipelines:
-
-1. **ML Engineer (International / Big Tech style)**  
-2. **AI Engineer (Startup / Applied AI style)**  
-
-They emphasize **different signals recruiters look for**.
-
---------------------------------
-
 # Resume Version 1  
 # ML Engineer (Research + Engineering Focus)
 
