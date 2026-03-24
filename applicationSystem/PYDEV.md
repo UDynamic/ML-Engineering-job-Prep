@@ -12,7 +12,7 @@ Python developer specializing in **backend systems, automation pipelines, and da
 
 Strong background combining **software engineering, data processing, machine learning, and product management**, enabling rapid development of practical Python Intelligent solutions.
 
-Currently pursuing an **M.Sc. in Engineering Management at Iran University of Science and Technology**, researching reinforcement learning–based decision systems.
+Currently Finilizing M.Sc.'s(Engineering Management) thesis at **Iran University of Science and Technology**, researching reinforcement learning–based decision suppurt intelligent autonomous systems.
 
 ---
 
