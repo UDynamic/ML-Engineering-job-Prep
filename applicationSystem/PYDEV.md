@@ -22,14 +22,6 @@ Currently Finilizing M.Sc.'s(Engineering Management) thesis at **Iran University
 Python
 JavaScript
 LateX
-  
-
-### Python Ecosystem
-NumPy  
-Pandas  
-Data Processing  
-Algorithm Development  
-Automation Scripts
 
 ### Backend & APIs
 REST APIs  
