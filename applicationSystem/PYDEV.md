@@ -19,8 +19,10 @@ Currently Finilizing M.Sc.'s(Engineering Management) thesis at **Iran University
 # Technical Skills
 
 ### Programming
-Python  
-JavaScript  
+Python
+JavaScript
+LateX
+  
 
 ### Python Ecosystem
 NumPy  
