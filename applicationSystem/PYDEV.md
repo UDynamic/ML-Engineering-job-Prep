@@ -10,7 +10,7 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 Python developer specializing in **backend systems, automation pipelines, and data‑driven applications**. Experienced in building **scalable Python services, workflow automation tools, algorithmic systems, and AI‑powered applications**.
 
-Strong background combining **software engineering, data processing, machine learning, and product management**, enabling rapid development of practical Python solutions.
+Strong background combining **software engineering, data processing, machine learning, and product management**, enabling rapid development of practical Python Intelligent solutions.
 
 Currently pursuing an **M.Sc. in Engineering Management at Iran University of Science and Technology**, researching reinforcement learning–based decision systems.
 
