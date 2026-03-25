@@ -29,6 +29,10 @@ API Integration
 Backend Service Development
 
 ### Frameworks & Tools
+FastAPI
+Flask
+Django
+React
 Next.js  
 Nest.js  
 n8n Automation  
