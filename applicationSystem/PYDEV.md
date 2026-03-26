@@ -24,11 +24,6 @@ JavaScript
 Typescript
 LateX
 
-### Backend & APIs
-REST APIs  
-API Integration  
-Backend Service Development
-
 ### Frameworks & Tools
 Python:FastAPI, Flask, Django
 JS, Front-End: React, Next  
@@ -39,7 +34,8 @@ Automation: n8n, Make, OpenClaw(Clawed Bot)
 ### AI & Machine Learning
 Machine Learning  
 Reinforcement Learning  
-Prompt Engineering  
+Prompt Engineering
+Model fine tunning  
 Local LLM systems (RAG implementation + GPU management with cuda)
 
 ---
