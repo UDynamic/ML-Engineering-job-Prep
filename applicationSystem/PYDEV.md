@@ -34,8 +34,7 @@ Python:FastAPI, Flask, Django
 JS, Front-End: React, Next  
 JS, Back-End: Express, Nest  
 TypeScript
-n8n Automation  
-Git
+Automation: n8n, Make, OpenClaw(Clawed Bot)  
 
 ### Data & Visualization
 Data Analysis  
