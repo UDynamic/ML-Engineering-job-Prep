@@ -21,6 +21,7 @@ Currently Finilizing M.Sc.'s(Engineering Management) thesis at **Iran University
 ### Programming
 Python
 JavaScript
+Typescript
 LateX
 
 ### Backend & APIs
@@ -29,12 +30,10 @@ API Integration
 Backend Service Development
 
 ### Frameworks & Tools
-FastAPI
-Flask
-Django
-React
-Next.js  
-Nest.js  
+Python:FastAPI, Flask, Django
+JS, Front-End: React, Next  
+JS, Back-End: Express, Nest  
+TypeScript
 n8n Automation  
 Git
 
