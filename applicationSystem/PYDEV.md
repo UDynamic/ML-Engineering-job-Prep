@@ -36,16 +36,11 @@ JS, Back-End: Express, Nest
 TypeScript
 Automation: n8n, Make, OpenClaw(Clawed Bot)  
 
-### Data & Visualization
-Data Analysis  
-Data Visualization  
-Decision‑Support Tools
-
 ### AI & Machine Learning
 Machine Learning  
 Reinforcement Learning  
 Prompt Engineering  
-Local LLM systems
+Local LLM systems (RAG implementation + GPU management with cuda)
 
 ---
 
