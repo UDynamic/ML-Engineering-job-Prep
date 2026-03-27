@@ -38,6 +38,7 @@ Prompt Engineering
 Model fine tunning  
 Local LLM systems (RAG implementation + GPU management with cuda)
 
+
 ---
 
 # Python Projects
