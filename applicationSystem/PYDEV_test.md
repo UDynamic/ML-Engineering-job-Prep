@@ -78,18 +78,6 @@ Completed multiple freeCodeCamp certification tracks that strengthened practical
 
 These certifications are strategically valuable because they show **structured self-learning, breadth across the web stack, and repeated project-based delivery** rather than only theoretical study.
 
-### freeCodeCamp Certification Project Coverage
-The certification work includes project-based implementation across areas such as:
-
-- responsive UI development and technical documentation pages
-- algorithmic problem solving and JavaScript logic exercises
-- interactive frontend applications and state-driven interfaces
-- charting and visual storytelling with data visualization projects
-- SQL and relational database exercises
-- backend API and microservice-style project work
-
-For Python/backend interviews, this history is especially useful because it shows a strong path from **general software engineering fundamentals** into **backend systems, databases, APIs, and eventually Python-first development**.
-
 ---
 
 ## Python Projects
@@ -99,17 +87,14 @@ For Python/backend interviews, this history is especially useful because it show
 
 Built a Python-based deep reinforcement learning system for **budget allocation under uncertainty and dynamic financial constraints**.
 
+**Achomplishment:**
+- trained an intelligent budgetting model who outperforms even the best portfolio managers ( learns from all the data in the world ) and is good as knowing the future ( knows all the uncertainties ).  
+
 **Key work:**
 - implemented the RL environment and training logic in Python
 - modeled uncertain cashflow conditions and dynamic constraints
 - evaluated agent behavior across repeated simulations
 - connected academic research with practical decision-support use cases
-
-**Technologies:**
-Python, DRL, simulation, numerical reasoning
-
-**Why it matters for Python roles:**
-Shows ability to build non-trivial Python systems involving experimentation, modeling, training pipelines, and reproducible analytical workflows.
 
 ---
 
