@@ -135,12 +135,7 @@ Developed multiple rule-based and quantitative trading systems for exploring aut
 - mean-reversion and variance-based ideas
 - martingale-related strategy experiments
 - rule-driven market execution logic
-
-**Technologies:**
-Python, MQL4, MQL5
-
-**Why it matters for Python roles:**
-Highlights analytical coding, experimentation discipline, and comfort designing systems with clear rules, metrics, and edge-case considerations.
+- Automating an adaptation of Elliott waves strategy
 
 ---
 
