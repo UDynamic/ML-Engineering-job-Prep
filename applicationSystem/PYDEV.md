@@ -14,6 +14,28 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 B.Sc      Intern    M.Sc.     Senior AI Scientist
 CE        Lab Z     AI        Company X
 ```
+
+```mermaid
+graph TD
+A --> B
+```
+
+```mermaid
+timeline
+    title Career Timeline
+
+    2018 : B.Sc. Computer Engineering
+         : University
+
+    2021 : AI Research Intern
+         : Lab Z
+
+    2023 : M.Sc. Artificial Intelligence
+         : University
+
+    2026 : Senior AI Scientist
+         : Company X
+```
 ---
 
 ## Professional Summary
