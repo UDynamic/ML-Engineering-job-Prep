@@ -27,6 +27,18 @@ timeline
     2023 : M.Sc. Artificial Intelligence
          : Thesis on LLM optimization
 ```
+
+```mermaid
+flowchart LR
+    A[2018<br>B.Sc CE]
+    B[2021<br>AI Intern]
+    C[2023<br>M.Sc AI]
+    D[2026<br>Senior AI Scientist]
+
+    A --> B --> C --> D
+
+    style A fill:#ffcc00,stroke:#333,stroke-width:2px
+```
 ---
 
 ## Professional Summary
