@@ -5,6 +5,8 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ---
 
+---
+
 ## Professional Summary
 
 Python developer with hands-on experience across **backend-oriented applications, automation workflows, data-driven decision tools, and AI systems**. Combines an engineering background, practical product and operations experience, and applied research in **reinforcement learning, robotics simulation, and LLM-assisted workflows**.
@@ -139,80 +141,24 @@ Developed multiple rule-based and quantitative trading systems for exploring aut
 
 ---
 
-## Workflow Automation Pipelines
-**Category:** Automation / Backend Integration
-
-Built operational workflow automations to reduce manual work and improve repeatability.
-
-**Key work:**
-- automated repetitive operational flows
-- connected APIs and service steps into orchestrated workflows
-- improved consistency and reduced manual handling
-
-**Technologies:**
-Python, n8n, APIs, workflow orchestration
-
-**Why it matters for Python roles:**
-Shows practical backend-adjacent thinking: integration, reliability, process design, and applied scripting/automation.
-
----
-
 ## Data and Software Engineering Projects
 
 ## Logistics Marketplace Heatmap Decision Support Tool
 **Category:** Data / Analytics / Python Application
 
-Built a Python-based decision-support tool to analyze **regional profitability and business performance** in a logistics marketplace.
+Built a Pupetteer.js -based decision-support tool to analyze **regional profitability and business performance** in a logistics marketplace.
 
 **Key work:**
 - aggregated operational and business data
 - produced geographic heatmap-style analysis
 - supported strategic regional decision making
 
-**Technologies:**
-Python, data analysis, visualization
-
-**Strategic value:**
-Very relevant for data-oriented Python roles because it combines analytics, visualization, and business interpretation.
-
----
-
-## Melkapo Platform Contribution
-**Category:** Product Delivery / Full-Stack Systems
-
-Contributed to production-oriented digital product development around a **contract-management business model**.
-
-**Key work:**
-- supported new web and mobile product delivery
-- helped shape pricing-engine related product thinking
-- worked with engineering, product, and cloud cost considerations
-
-**Technologies:**
-Next.js, Nest.js, cloud services
-
-**Strategic value:**
-Even though this is not Python-first, it strengthens your profile for backend roles by showing exposure to production product delivery, architecture discussions, and cross-functional execution.
-
 ---
 
 ## Professional Experience
 
-## Product Manager — Melkapo
-**Year:** 2024
-
-- led a 3-person cross-functional team including product, marketing, and design contributors
-- designed a new business model with pricing-engine components for contract management
-- launched new web and mobile products with structured roadmap thinking
-- managed cloud usage with cost control in mind
-- defined OKRs and KPIs for execution visibility
-
-**Why it strengthens a Python profile:**
-Shows product sense, stakeholder communication, and an understanding of how software work connects to business outcomes.
-
----
-
 ## Project Management Officer — Iran Energy Industries Corporation (IEIC)
-**Year:** 2023
+**Year:** 2023 (1402)
 
 - led and coached a 5-person planning and coordination team
 - supported the signing of 2 major contracts
@@ -220,21 +166,15 @@ Shows product sense, stakeholder communication, and an understanding of how soft
 - defined and tracked KPI systems across EPC operations
 - worked on structured planning, reporting, claims, and stakeholder communication
 
-**Why it strengthens a Python profile:**
-Adds credibility for data/reporting roles because it reflects real operational analytics, metrics ownership, and structured problem solving.
-
 ---
 
 ## Project Control Specialist — Jahanpars Group
-**Year:** 2020
+**Year:** 2019 - 2020 (1398 - 1399)
 
 - produced weekly, biweekly, and monthly project control reports
 - monitored schedules against baselines and contract plans
 - supported engineering and procurement coordination through disciplined reporting
 - prepared analysis for management decision-making
-
-**Why it strengthens a Python profile:**
-This experience is strategically valuable for data and backend interviews because it explains the origin of your analytical mindset: reporting, process discipline, metrics, and operational visibility.
 
 ---
 
@@ -242,40 +182,16 @@ This experience is strategically valuable for data and backend interviews becaus
 
 ### M.Sc. in Engineering Management (In Progress)
 **Iran University of Science and Technology**
-- national entrance exam rank: 28
+2023 - 2026 (1402 - 1405) 
 - thesis: **Autonomous Budgeting AI Agent**
 - research emphasis: reinforcement learning for budgeting decisions under uncertainty
 
 ### B.Sc. in Industrial Engineering
 **Isfahan University of Technology**
-
-### PhD Direction
-Preparing for advanced study and research in **AI / Robotics**, with strong interest in reinforcement learning, robotics, and intelligent systems.
-
----
-
-## Strategic Positioning for Python Interviews
-
-This profile is strongest when presented as a **Python developer who can operate across backend, data, and AI application layers**.
-
-### Best themes to emphasize
-- Python as the main implementation language across AI, simulation, analytics, and automation work
-- backend and systems thinking through APIs, integrations, and service-oriented problem solving
-- data fluency from analytics, reporting, visualization, and decision-support tools
-- practical AI application building, especially RL and LLM-oriented workflows
-- unusual combination of technical depth and business/process understanding
-
-### Why this is strategically valuable
-Compared with a typical junior or mid-level Python profile, this background shows:
-
-- stronger research depth than many backend-only candidates
-- stronger business understanding than many research-only candidates
-- stronger systems and delivery awareness than many purely academic AI candidates
-- evidence of disciplined self-learning through freeCodeCamp certifications and project-based study
+2017 - 2023 (1396 - 1402) 
 
 ---
 
 ## Languages
 
-- Persian — Native
-- English — Professional working proficiency
+- English — almost Native
