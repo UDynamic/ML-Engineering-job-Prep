@@ -176,10 +176,11 @@ Jahanpars Group — 2020
 
 # Education
 
+PHD. Aritficial Intelligence & Robotics
+Enterance Exam passed with highest confidence (Estimated rank to be declared as 1)
+
 M.Sc. Engineering Management (In Progress)  
 Iran University of Science and Technology
-
-National Entrance Rank: **28**
 
 B.Sc. Industrial Engineering  
 Isfahan University of Technology
