@@ -1,8 +1,10 @@
 
 # Mahriar Gharaghani  
-Python Developer | Backend Systems | Automation | AI Applications  
+Python Developer | AI & ML | Automation | Backend Systems
 Tehran, Iran  
 mahriargharaghani@gmail.com | +98 917 397 8579
+
+1378 / 03 / 17
 
 ---
 
