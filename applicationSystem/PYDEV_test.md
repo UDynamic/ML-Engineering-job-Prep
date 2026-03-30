@@ -101,7 +101,8 @@ Built a Python-based deep reinforcement learning system for **budget allocation 
 ## Autonomous Assembling Robotic Arm for manufacturing in micro gravity 
 **Category:** AI / Robotics / Simulation
 / micro gravity
-Implemented a Python simulation for **robotic arm trajectory control in microgravity-inspired conditions** using deep reinforcement learning.
+
+Participated in Implementing a Python simulation training for **robotic arm trajectory control in microgravity-inspired conditions** using deep reinforcement learning for assembling complex products.
 
 **Key work:**
 - designed the training environment
@@ -109,15 +110,9 @@ Implemented a Python simulation for **robotic arm trajectory control in microgra
 - tested control behavior and training stability
 - worked on an applied robotics-oriented RL problem
 
-**Technologies:**
-Python, DRL, robotics simulation
-
-**Why it matters for Python roles:**
-Demonstrates mathematical thinking, experimentation, and comfort with technically demanding Python applications.
-
 ---
 
-## RAG4Konkur — Local LLM Study Workflow
+## RAG4Konkur — Local LLM Study Ai assistant
 **Category:** Applied AI / LLM Systems / Productivity Tooling
 
 Built a Python-centered workflow for generating **adaptive flashcards, recall prompts, and study questions** for PhD exam preparation.
@@ -127,12 +122,6 @@ Built a Python-centered workflow for generating **adaptive flashcards, recall pr
 - designed active-recall and spaced-repetition support processes
 - worked with local or on-prem style LLM usage patterns
 - combined technical notes, prompts, and iterative evaluation into one study pipeline
-
-**Technologies:**
-Python, local LLM workflows, prompt engineering, Anki-style study process, LaTeX/XeLaTeX
-
-**Why it matters for Python roles:**
-Shows practical applied-AI engineering, workflow design, and the ability to turn Python into a useful end-user productivity system.
 
 ---
 
