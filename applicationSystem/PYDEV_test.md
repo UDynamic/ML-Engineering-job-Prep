@@ -4,7 +4,12 @@ Tehran, Iran
 mahriargharaghani@gmail.com | +98 917 397 8579
 
 ---
-
+```
+2018     2021     2023      2026
+|---------|---------|---------|
+B.Sc      Intern    M.Sc.     Senior AI Scientist
+CE        Lab Z     AI        Company X
+```
 ---
 
 ## Professional Summary
