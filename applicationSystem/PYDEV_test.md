@@ -98,9 +98,9 @@ Built a Python-based deep reinforcement learning system for **budget allocation 
 
 ---
 
-## DRL Robotic Arm Simulation
+## Autonomous Assembling Robotic Arm for manufacturing in micro gravity 
 **Category:** AI / Robotics / Simulation
-
+/ micro gravity
 Implemented a Python simulation for **robotic arm trajectory control in microgravity-inspired conditions** using deep reinforcement learning.
 
 **Key work:**
