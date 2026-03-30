@@ -8,33 +8,24 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ---
 
-```fa
-2018     2021     2023      2026
-|---------|---------|---------|
-B.Sc      Intern    M.Sc.     Senior AI Scientist
-CE        Lab Z     AI        Company X
-```
-
-```mermaid
-graph TD
-A --> B
-```
-
 ```mermaid
 timeline
-    title Career Timeline
+    title Mahriar Career Timeline
 
+    section Education 🎓
     2018 : B.Sc. Computer Engineering
-         : University
 
+    section Experience
     2021 : AI Research Intern
          : Lab Z
 
-    2023 : M.Sc. Artificial Intelligence
-         : University
-
     2026 : Senior AI Scientist
          : Company X
+         : Leading multimodal research
+
+    section Research
+    2023 : M.Sc. Artificial Intelligence
+         : Thesis on LLM optimization
 ```
 ---
 
@@ -60,6 +51,7 @@ Currently completing an **M.Sc. in Engineering Management at Iran University of 
 - JavaScript
 - TypeScript
 - LaTeX / XeLaTeX
+- Markdown
 
 ### Python and Backend
 - FastAPI
