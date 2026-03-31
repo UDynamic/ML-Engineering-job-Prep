@@ -38,13 +38,7 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 **Thesis:** *Autonomous Budgeting AI Agent*
 *2025 - 2026 (1404 - 1405)*
 
-- built a Python-based deep reinforcement learning system for budget allocation under uncertainty and dynamic financial constraints
-- implemented the RL environment and training logic in Python
-- modeled uncertain cashflow conditions and dynamic constraints
-- evaluated agent behavior across repeated simulations for decision-support use cases
-
-
-
+- built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints
 ---
 
 ## Professional History
@@ -52,6 +46,8 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 #### (1). Project Control Specialist
 **Jahanpars Group**
 *2019 - 2020 (1398 - 1399)*
+
+* first Official Job in the Covid pandemic times. (**got employed before graduation**)
 
 #### (2). Project Management Officer
 **Iran Energy Industries Corporation (IEIC)**
