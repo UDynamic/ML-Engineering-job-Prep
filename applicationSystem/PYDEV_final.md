@@ -1,9 +1,9 @@
 # Mahriar Gharaghani  
-Python Developer | AI & ML scientist | Automation | Backend Systems
+⚠️ AI & ML scientist | Python Developer | Automation | Backend Systems
 Tehran, Iran  
 `1378 / 03 / 17`
 
-AI & ML scientist with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
+⚠️ AI & ML scientist with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
 
 highly qualified for **AI engineering**, **ML engineering** and **Python developer** positioin.
 
@@ -27,16 +27,16 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ## Education
 
-#### B.Sc. in Industrial Engineering
+#### B\.Sc. in Industrial Engineering
 **Isfahan University of Technology**  
-*2017 - 2023 (1396 - 1402)*
+`2017 - 2023 (1396 - 1402)`
 
-#### M.Sc. in Engineering Management (In Progress)
+#### M\.Sc. in Engineering Management (In Progress)
 **Iran University of Science and Technology**  
-*2023 - 2026 (1402 - 1405)*
+`2023 - 2026 (1402 - 1405)`
 
 **Thesis:** *Autonomous Budgeting AI Agent*
-*2025 - 2026 (1404 - 1405)*
+`2025 - 2026 (1404 - 1405)`
 
 - built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints
 ---
@@ -83,9 +83,6 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 2. built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
 3. developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies(Ichimoko cloudes, Elliott waves)
 4. built a **logistics heatmap decision-support tool** for regional profitability analysis
-
----
-
 
 ---
 
