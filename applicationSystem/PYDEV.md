@@ -8,29 +8,6 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ---
 
-```mermaid
-timeline
-    title Mahriar Career Timeline
-
-    section Education 🎓
-    2018 : B.Sc. Computer Engineering
-
-    2019 : a
-
-    section Experience
-    2021 : AI Research Intern
-         : Lab Z
-
-    2026 : Senior AI Scientist
-         : Company X
-         : Leading multimodal research
-
-    section Research
-    2023 : M.Sc. Artificial Intelligence
-         : Thesis on LLM optimization
-```
----
-
 ## Professional Summary
 
 Python developer with hands-on experience across **backend-oriented applications, automation workflows, data-driven decision tools, and AI systems**. Combines an engineering background, practical product and operations experience, and applied research in **reinforcement learning, robotics simulation, and LLM-assisted workflows**.
@@ -70,8 +47,8 @@ Currently completing an **M.Sc. in Engineering Management at Iran University of 
 - Reporting and decision-support tooling
 - KPI and metrics system design
 - Process automation
-- n8n
 - API-based workflow automation
+- n8n, Make and OpenClaw(Clawed Bot)
 
 ### AI and Applied ML
 - Machine learning
