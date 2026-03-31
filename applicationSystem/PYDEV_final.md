@@ -1,17 +1,13 @@
 # Mahriar Gharaghani  
 Python Developer | AI & ML | Automation | Backend Systems
 Tehran, Iran  
-mahriargharaghani@gmail.com | +98 917 397 8579
-
 1378 / 03 / 17
-
----
-
-## About ME
 
 AI & ML scientist with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
 
 highly qualified for **AI engineering**, **ML engineering** and **Python developer** positioin.
+
+mahriargharaghani@gmail.com | +98 917 397 8579
 
 ---
 
@@ -67,20 +63,21 @@ highly qualified for **AI engineering**, **ML engineering** and **Python develop
 Used this period as a deliberate career transition from Management into **deep Technical Computer Engineering and AI**.
 
 #### (3.1) ML Engineering job prep:
-- built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
-- implemented a **PyTorch deep learning pipeline** for CIFAR-10 with custom data loading, training loops, augmentation experiments, checkpointing, and **transfer learning with ResNet18**
-- served a trained model through a **FastAPI REST API** and containerized it with **Docker** for production-style deployment
-- explored supporting ML engineering practices including **deployment options, CI/CD exposure, and MLflow-oriented experiment tracking concepts**
+1. built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
+2. implemented a **PyTorch deep learning pipeline** for CIFAR-10 with custom data loading, training loops, augmentation experiments, checkpointing, and **transfer learning with ResNet18**
+3. served a trained model through a **FastAPI REST API** and containerized it with **Docker** for production-style deployment
+4. explored supporting ML engineering practices including **deployment options, CI/CD exposure, and MLflow-oriented experiment tracking concepts**
 
 #### (3.2) Additional AI and passion projects:
-- contributed to a **robotic arm reinforcement learning simulation** for trajectory control in microgravity-inspired assembly settings
-- built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
-- developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies
-- built a **logistics heatmap decision-support tool** for regional profitability analysis
+1. contributed to a **robotic arm reinforcement learning simulation** for trajectory control in microgravity-inspired assembly settings
+2. built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
+3. developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies(Ichimoko cloudes, Elliott waves)
+4. built a **logistics heatmap decision-support tool** for regional profitability analysis
 
 ---
 
 ## Certifications
+*2024 (1403)*
 
 ### freeCodeCamp Full Stack JavaScript Certifications
 
