@@ -1,7 +1,7 @@
 # Mahriar Gharaghani  
-Python Developer | AI & ML | Automation | Backend Systems
+Python Developer | AI & ML scientist | Automation | Backend Systems
 Tehran, Iran  
-1378 / 03 / 17
+`1378 / 03 / 17`
 
 AI & ML scientist with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
 
@@ -60,7 +60,19 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 * Made an intentional shift from Management to deep technical engineering and AI, recognizing my strength lies in **designing intelligent systems** rather than tracking progress metrics.
 
-#### (3.1) ML Engineering job prep:
+#### (3.1) Software Engineering:
+`2024 (1403)`
+
+* **freeCodeCamp Full Stack JavaScript Certifications:**
+    1- Responsive Web Design Certification
+    2- JavaScript Algorithms and Data Structures Certification
+    3- Front End Development Libraries Certification
+    4- Data Visualization Certification
+    5- Relational Database Certification
+    6- Back End Development and APIs Certification
+
+
+#### (3.2) ML Engineering job prep:
 1. built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
 2. implemented a **PyTorch deep learning pipeline** for CIFAR-10 with custom data loading, training loops, augmentation experiments, checkpointing, and **transfer learning with ResNet18**
 3. served a trained model through a **FastAPI REST API** and containerized it with **Docker** for production-style deployment
@@ -74,17 +86,6 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ---
 
-## Certifications
-*2024 (1403)*
-
-### freeCodeCamp Full Stack JavaScript Certifications
-
-1. Responsive Web Design Certification
-2. JavaScript Algorithms and Data Structures Certification
-3. Front End Development Libraries Certification
-4. Data Visualization Certification
-5. Relational Database Certification
-6. Back End Development and APIs Certification
 
 ---
 
