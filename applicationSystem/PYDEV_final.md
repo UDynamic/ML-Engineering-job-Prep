@@ -16,12 +16,12 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 | Area | Skills |
 |---|---|
 | Languages | Python, JavaScript, TypeScript, Markdown, LaTeX |
-| Backend | FastAPI, Flask, Django, REST APIs, service design |
+| Backend | FastAPI, Flask, Django, Express.js, Nest.js |
 | Automation | Workflow orchestration, API automation, analytical scripting, n8n, Make, OpenClaw(Clawed Bot) |
-| AI / ML | Machine learning, deep learning, DRL, RAG, local LLM workflows |
-| Data | Analysis, visualization, preprocessing, feature engineering |
-| MLOps / Delivery | Model serving, Docker, deployment concepts, experiment tracking |
-| Additional | Next.js, Nest.js, full-stack architecture, databases,  |
+| AI / ML | Machine learning, deep learning, DRL, RAG, prompt engineering |
+| Data Science | Analysis (EDA), visualization, preprocessing, feature engineering, story telling |
+| MLOps / Delivery | Model serving, Docker, deployment concepts, experiment , **secure** implementation of **OpenClaw** |
+| Additional | React.js, Next.js, full-stack architecture, databases  |
 
 ---
 
@@ -36,6 +36,8 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 *2023 - 2026 (1402 - 1405)*
 
 **Thesis:** *Autonomous Budgeting AI Agent*
+*2025 - 2026 (1404 - 1405)*
+
 - built a Python-based deep reinforcement learning system for budget allocation under uncertainty and dynamic financial constraints
 - implemented the RL environment and training logic in Python
 - modeled uncertain cashflow conditions and dynamic constraints
