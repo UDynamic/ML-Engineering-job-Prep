@@ -51,28 +51,28 @@ highly qualified for **AI engineering**, **ML engineering** and **Python develop
 
 ## Professional History
 
-#### 1. Project Control Specialist
+#### (1). Project Control Specialist
 **Jahanpars Group**
 *2019 - 2020 (1398 - 1399)*
 
-#### 2. Project Management Officer
+#### (2). Project Management Officer
 **Iran Energy Industries Corporation (IEIC)**
 *2023 (1402)*
 
 - led a 5-person planning and coordination team across EPC operations
 
-#### 3. Career Break — Market Re-entry
+#### (3). Career Break — Market Re-entry
 *2023 (1402) - so far*
 
-Used this period as a deliberate **career transition** from Management into **deep Technical Computer Engineering and AI**.
+Used this period as a deliberate career transition from Management into **deep Technical Computer Engineering and AI**.
 
-**ML Engineering job prep:**
+#### (3.1) ML Engineering job prep:
 - built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
 - implemented a **PyTorch deep learning pipeline** for CIFAR-10 with custom data loading, training loops, augmentation experiments, checkpointing, and **transfer learning with ResNet18**
 - served a trained model through a **FastAPI REST API** and containerized it with **Docker** for production-style deployment
 - explored supporting ML engineering practices including **deployment options, CI/CD exposure, and MLflow-oriented experiment tracking concepts**
 
-**Additional AI and decision-support work:**
+#### (3.2) Additional AI and passion projects:
 - contributed to a **robotic arm reinforcement learning simulation** for trajectory control in microgravity-inspired assembly settings
 - built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
 - developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies
