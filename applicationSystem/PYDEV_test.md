@@ -22,40 +22,15 @@ Well-suited for Python developer, backend Python, ML engineering, and AI applica
 
 ## Technical Skills
 
-### Core Languages
-- Python
-- JavaScript
-- TypeScript
-- Markdown
-- LaTeX / XeLaTeX
-
-### Python, Backend, and Automation
-- FastAPI
-- Flask
-- Django
-- REST API integration
-- Workflow orchestration
-- Backend logic and service design
-- Data processing and analytical scripting
-- API-based workflow automation
-
-### AI, Data, and ML Engineering
-- Machine learning
-- Deep learning with PyTorch
-- Deep reinforcement learning (DRL)
-- Model serving and containerized deployment
-- Data analysis and visualization
-- Feature engineering and preprocessing pipelines
-- Experiment tracking concepts
-- Local LLM and RAG-style workflows
-
-### Additional Exposure
-- Next.js
-- Nest.js
-- Full-stack architecture
-- Cloud cost-aware delivery
-- Database-backed application development
-- n8n, Make, and OpenClaw (Clawed Bot)
+| Area | Skills |
+|---|---|
+| Languages | Python, JavaScript, TypeScript, Markdown, LaTeX |
+| Backend | FastAPI, Flask, Django, REST APIs, service design |
+| Automation | Workflow orchestration, API automation, analytical scripting, n8n, Make, OpenClaw(Clawed Bot) |
+| AI / ML | Machine learning, deep learning, DRL, RAG, local LLM workflows |
+| Data | Analysis, visualization, preprocessing, feature engineering |
+| MLOps / Delivery | Model serving, Docker, deployment concepts, experiment tracking |
+| Additional | Next.js, Nest.js, full-stack architecture, databases,  |
 
 ---
 
@@ -82,40 +57,30 @@ Well-suited for Python developer, backend Python, ML engineering, and AI applica
 #### Project Control Specialist — Jahanpars Group
 **2019 - 2020 (1398 - 1399)**
 
-- produced weekly, biweekly, and monthly project control reports
-- monitored schedules against baselines and contract plans
-- supported engineering and procurement coordination through disciplined reporting
-- prepared analysis for management decision-making
-
 #### Project Management Officer — Iran Energy Industries Corporation (IEIC)
 **2023 (1402)**
 
-- led and coached a 5-person planning and coordination team
-- supported the signing of 2 major contracts
-- improved portfolio utility and reduced short-term debt deadlines by 30%
-- defined and tracked KPI systems across EPC operations
-- worked on structured planning, reporting, claims, and stakeholder communication
+- led a **5-person planning and coordination team** across EPC operations
+
 
 #### Career Break — ML Engineering Portfolio Build and Market Re-entry
 **Recent period / current transition**
 
-Used the period after formal project roles to intentionally build a portfolio aligned with Python, backend, and ML engineering positions. This included hands-on projects across the ML lifecycle, practical deployment patterns, and AI application workflows.
+Used this period as a deliberate **career transition** from project controls into **Python, backend, AI, and ML engineering**. Built a focused portfolio to demonstrate practical execution across the ML lifecycle, deployment workflows, and AI application development.
 
-**ML engineering and software portfolio work from `/projects`:**
-- built an Excel/CSV data extraction workflow for query-driven data manipulation
-- developed an end-to-end house price prediction pipeline with EDA, preprocessing, feature engineering, model comparison, cross-validation, and final model selection
-- implemented a CIFAR-10 deep learning pipeline in PyTorch with custom data loading, CNN training loops, augmentation experiments, checkpointing, and transfer learning with ResNet18
-- served a trained house price model through a FastAPI REST API and containerized it with Docker for local and production-style deployment
-- explored local cloud deployment options for Dockerized services
-- prepared CI/CD and experiment-tracking learning tracks, including MLflow-oriented workflow exposure
+**Highlights from `/projects`:**
+- built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
+- implemented a **PyTorch deep learning pipeline** for CIFAR-10 with custom data loading, training loops, augmentation experiments, checkpointing, and **transfer learning with ResNet18**
+- served a trained model through a **FastAPI REST API** and containerized it with **Docker** for production-style deployment
+- explored supporting ML engineering practices including **deployment options, CI/CD exposure, and MLflow-oriented experiment tracking concepts**
 
-**Additional AI and product-oriented projects:**
-- built **RAG4Konkur**, a local LLM study assistant for adaptive flashcards, recall prompts, and study-question generation
-- developed multiple algorithmic trading system experiments across momentum, mean-reversion, variance-based, and rule-driven execution ideas
-- built a logistics marketplace heatmap decision-support tool with Puppeteer.js for regional profitability analysis
-- participated in a robotic arm reinforcement learning simulation for trajectory control in microgravity-inspired assembly settings
+**Additional AI and decision-support work:**
+- built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
+- developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies
+- built a **logistics heatmap decision-support tool** for regional profitability analysis
+- contributed to a **robotic arm reinforcement learning simulation** for trajectory control in microgravity-inspired assembly settings
 
-This career-break period represents the final bridge from operations and project controls into full-time software, backend Python, and ML engineering work.
+This period represents the final stage of repositioning into the job market with a portfolio centered on **ML engineering, backend Python, and applied AI systems**.
 
 ---
 
