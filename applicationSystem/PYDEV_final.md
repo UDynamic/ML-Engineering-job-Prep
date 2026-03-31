@@ -45,20 +45,20 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 #### (1). Project Control Specialist
 **Jahanpars Group**
-*2019 - 2020 (1398 - 1399)*
+`2019 - 2020 (1398 - 1399)`
 
-* first Official Job in the Covid pandemic times. (**got employed before graduation**)
+* First professional position while still an **undergraduate**, during the COVID‑19 pandemic.
 
 #### (2). Project Management Officer
 **Iran Energy Industries Corporation (IEIC)**
-*2023 (1402)*
+`2023 (1402)`
 
-- led a 5-person planning and coordination team across EPC operations
+- Senior deputy to the Head of Department
 
 #### (3). Career Break — Market Re-entry
-*2023 (1402) - so far*
+`2023 (1402) - so far`
 
-Used this period as a deliberate career transition from Management into **deep Technical Computer Engineering and AI**.
+* Made an intentional shift from Management to deep technical engineering and AI, recognizing my strength lies in **designing intelligent systems** rather than tracking progress metrics.
 
 #### (3.1) ML Engineering job prep:
 1. built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
