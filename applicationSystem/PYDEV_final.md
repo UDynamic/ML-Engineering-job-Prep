@@ -1,9 +1,11 @@
+<img src="./images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
+
 # Mahriar Gharaghani  
-⚠️ AI & ML scientist | Python Developer | Automation | Backend Systems
+AI & ML Engineer | Python Developer | Automation | Backend Systems
 Tehran, Iran  
 `1378 / 03 / 17`
 
-⚠️ AI & ML scientist with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
+AI & ML Engineer with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
 
 highly qualified for **AI engineering**, **ML engineering** and **Python developer** positioin.
 
