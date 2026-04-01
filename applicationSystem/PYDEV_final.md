@@ -60,7 +60,7 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 #### (3). Career Break — Market Re-entry
 `2023 (1402) - so far`
 
-* Made an intentional shift from Management to deep technical engineering and AI, recognizing my strength lies in **designing intelligent systems** rather than tracking progress metrics.
+* Made an intentional shift from Management to deep technical engineering trying everything untill reaching the edge of knowledge of AI, recognizing my strength lies in **designing intelligent systems** rather than tracking progress metrics.
 
 #### (3.1) Software Engineering:
 `2024 (1403)`
@@ -84,8 +84,10 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 1. contributed to a **robotic arm reinforcement learning simulation** for trajectory control in microgravity-inspired assembly settings
 2. built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
 3. developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies(Ichimoko cloudes, Elliott waves)
-4. built a **logistics heatmap decision-support tool** for regional profitability analysis
-
+4. built a live stock prices candlestick chart with D3.js and another Treemap live chart
+4. built a spreadsheet web app with vanilla.js 
+6. built a **logistics heatmap decision-support tool** for regional profitability analysis
+7. built a LangChain application system producing submission packages for each specific job postings from personal source of truth and mapping of attributes.
 ---
 
 ## Languages
