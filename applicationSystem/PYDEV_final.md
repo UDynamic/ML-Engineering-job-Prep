@@ -87,9 +87,12 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 4. built a live stock prices candlestick chart with D3.js and another Treemap live chart
 4. built a spreadsheet web app with vanilla.js 
 6. built a **logistics heatmap decision-support tool** for regional profitability analysis
-7. built a LangChain application system producing submission packages for each specific job postings from personal source of truth and mapping of attributes.
+7. built a LangChain application system producing submission packages for each specific job postings from personal source of truth and mapping of attributes.   
 ---
 
 ## Languages
 
 - English — almost Native
+
+---
+Studying the Langchain Ai agent systems. wanna make the application system a langchain framework implemementation. 
