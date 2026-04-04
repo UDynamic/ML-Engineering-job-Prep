@@ -25,6 +25,17 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 | MLOps / Delivery | Model serving, Docker, deployment concepts, experiment , **secure** implementation of **OpenClaw** |
 | Additional | React.js, Next.js, full-stack architecture, databases  |
 
+| Languages | Backend | AI / ML | Data Science | MLOps / Delivery | Additional |
+|---|---|---|---|---|---|
+| Python | FastAPI | Machine learning | Analysis (EDA) | Model serving | React.js |
+| JavaScript | Flask | Deep learning | Visualization | Docker | Next.js |
+| TypeScript | Django | DRL | Preprocessing | Deployment concepts | Full-stack architecture |
+| Markdown | Express.js | RAG | Feature engineering | Experiment tracking | Databases |
+| LaTeX | Nest.js | Prompt engineering | Story telling | Secure implementation of OpenClaw |  |
+
+| Automation | Workflow orchestration | API automation | Analytical scripting | n8n | Make | OpenClaw(Clawed Bot) |
+|---|---|---|---|---|---|---|
+
 ---
 
 ## Education
