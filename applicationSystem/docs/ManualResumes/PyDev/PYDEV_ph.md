@@ -102,6 +102,33 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 | **ML Engineering job prep** | End-to-end house-price ML pipeline; PyTorch CIFAR-10 pipeline with custom loading, augmentation, checkpointing, and ResNet18 transfer learning; FastAPI REST API model serving; Docker deployment; exposure to CI/CD and MLflow-oriented experiment tracking concepts. |
 | **Additional AI and passion projects** | Robotic arm reinforcement learning simulation; **RAG4Konkur** local LLM study assistant; algorithmic trading system experiments; live stock candlestick and treemap charts; spreadsheet web app; logistics heatmap decision-support tool; LangChain application system for tailored submission packages. |
 
+### Professional History - Table 2A
+
+| Major Track | Details |
+|---|---|
+| **1. Project Control Specialist** | **Jahanpars Group** - `2019 - 2020 (1398 - 1399)`<br>First professional position while still an **undergraduate**, during the COVID-19 pandemic. |
+| **2. Project Management Officer** | **Iran Energy Industries Corporation (IEIC)** - `2023 (1402)`<br>Senior deputy to the Head of Department. |
+| **3. Career Break - Market Re-entry** | `2023 (1402) - so far`<br>Intentional shift from Management to deep technical engineering, aiming toward **designing intelligent systems**.<br><br>Sub-tracks under this phase:<br>**3.1 Software Engineering** - `2024 (1403)` - freeCodeCamp Full Stack JavaScript Certifications: Responsive Web Design; JavaScript Algorithms and Data Structures; Front End Development Libraries; Data Visualization; Relational Database; Back End Development and APIs.<br>**3.2 ML Engineering job prep** - End-to-end house-price ML pipeline; PyTorch CIFAR-10 pipeline with custom loading, augmentation, checkpointing, and ResNet18 transfer learning; FastAPI REST API model serving; Docker deployment; exposure to CI/CD and MLflow-oriented experiment tracking concepts.<br>**3.3 Additional AI and passion projects** - Robotic arm reinforcement learning simulation; **RAG4Konkur** local LLM study assistant; algorithmic trading system experiments; live stock candlestick and treemap charts; spreadsheet web app; logistics heatmap decision-support tool; LangChain application system for tailored submission packages. |
+
+### Professional History - Table 2B
+
+| No. | Major Item | Scope |
+|---|---|---|
+| **1** | **Project Control Specialist** | **Jahanpars Group**<br>`2019 - 2020 (1398 - 1399)`<br>First professional position while still an **undergraduate**, during the COVID-19 pandemic. |
+| **2** | **Project Management Officer** | **Iran Energy Industries Corporation (IEIC)**<br>`2023 (1402)`<br>Senior deputy to the Head of Department. |
+| **3** | **Career Break - Market Re-entry** | `2023 (1402) - so far`<br>Intentional shift from Management to deep technical engineering, aiming toward **designing intelligent systems**.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;- **3.1 Software Engineering**: freeCodeCamp Full Stack JavaScript Certifications - Responsive Web Design; JavaScript Algorithms and Data Structures; Front End Development Libraries; Data Visualization; Relational Database; Back End Development and APIs.<br>&nbsp;&nbsp;&nbsp;&nbsp;- **3.2 ML Engineering job prep**: built an end-to-end house-price ML pipeline; implemented a PyTorch CIFAR-10 pipeline with custom loading, augmentation, checkpointing, and ResNet18 transfer learning; served a model through a FastAPI REST API; containerized deployment with Docker; explored CI/CD exposure and MLflow-oriented experiment tracking concepts.<br>&nbsp;&nbsp;&nbsp;&nbsp;- **3.3 Additional AI and passion projects**: robotic arm reinforcement learning simulation; **RAG4Konkur** local LLM study assistant; algorithmic trading system experiments; live stock candlestick and treemap charts; spreadsheet web app; logistics heatmap decision-support tool; LangChain application system for tailored submission packages. |
+
+### Professional History - Table 2C
+
+| Major Phase | Key Content |
+|---|---|
+| **1. Project Control Specialist** | **Jahanpars Group** - `2019 - 2020 (1398 - 1399)`<br>First professional position while still an **undergraduate**, during the COVID-19 pandemic. |
+| **2. Project Management Officer** | **Iran Energy Industries Corporation (IEIC)** - `2023 (1402)`<br>Senior deputy to the Head of Department. |
+| **3. Career Break - Market Re-entry** | `2023 (1402) - so far` |
+|  | **3.1 Software Engineering** - `2024 (1403)`<br>freeCodeCamp Full Stack JavaScript Certifications: Responsive Web Design; JavaScript Algorithms and Data Structures; Front End Development Libraries; Data Visualization; Relational Database; Back End Development and APIs. |
+|  | **3.2 ML Engineering job prep**<br>End-to-end house-price ML pipeline; PyTorch CIFAR-10 pipeline with custom loading, augmentation, checkpointing, and ResNet18 transfer learning; FastAPI REST API model serving; Docker deployment; exposure to CI/CD and MLflow-oriented experiment tracking concepts. |
+|  | **3.3 Additional AI and passion projects**<br>Robotic arm reinforcement learning simulation; **RAG4Konkur** local LLM study assistant; algorithmic trading system experiments; live stock candlestick and treemap charts; spreadsheet web app; logistics heatmap decision-support tool; LangChain application system for tailored submission packages. |
+
 ### Professional History - Table 3
 
 | Early Career | Re-entry and Technical Build-out |
