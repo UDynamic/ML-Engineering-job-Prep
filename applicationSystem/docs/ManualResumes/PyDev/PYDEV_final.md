@@ -1,4 +1,4 @@
-<img src="./images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
+<img src="../../../images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
 
 # Mahriar Gharaghani  
 AI & ML Engineer | Python Developer | Automation | Backend Systems
@@ -28,18 +28,10 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ## Education
 
-#### B\.Sc. in Industrial Engineering
-**Isfahan University of Technology**  
-`2017 - 2023 (1396 - 1402)`
-
-#### M\.Sc. in Engineering Management (In Progress)
-**Iran University of Science and Technology**  
-`2023 - 2026 (1402 - 1405)`
-
-**Thesis:** *Autonomous Budgeting AI Agent*
-`2025 - 2026 (1404 - 1405)`
-
-- built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints
+| Degree | Institution | Status / Dates | Description |
+|---|---|---|---|
+| **B.Sc. in Industrial Engineering** | Isfahan University of Technology | Completed<br>`2017 - 2023 (1396 - 1402)` | Undergraduate degree |
+| **M.Sc. in Engineering Management** | Iran University of Science and Technology | In Progress<br>`2023 - 2026 (1402 - 1405)` | **Thesis:** *Autonomous Budgeting AI Agent*<br>built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints |
 ---
 
 ## Professional History
