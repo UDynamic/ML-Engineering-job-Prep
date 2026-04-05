@@ -1,4 +1,4 @@
-<img src="./images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
+<img src="../../../images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
 
 # Mahriar Gharaghani  
 AI & ML Engineer | Python Developer | Automation | Backend Systems
