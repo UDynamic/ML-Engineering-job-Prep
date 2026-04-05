@@ -15,26 +15,14 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ## Technical Skills
 
-| Area | Skills |
-|---|---|
-| Languages | Python, JavaScript, TypeScript, Markdown, LaTeX |
-| Backend | FastAPI, Flask, Django, Express.js, Nest.js |
-| Automation | Workflow orchestration, API automation, analytical scripting, n8n, Make, OpenClaw(Clawed Bot) |
-| AI / ML | Machine learning, deep learning, DRL, RAG, prompt engineering |
-| Data Science | Analysis (EDA), visualization, preprocessing, feature engineering, story telling |
-| MLOps / Delivery | Model serving, Docker, deployment concepts, experiment , **secure** implementation of **OpenClaw** |
-| Additional | React.js, Next.js, full-stack architecture, databases  |
+| Languages | Software | AI / ML | Data | MLOps / DevOps |
+|---|---|---|---|---|
+| Python | React.js | **Machine learning** | Analysis (EDA) | Model serving (API) |
+| JavaScript | Express.js | Prompt engineering | Visualization | Docker |
+| TypeScript | Django | **LangChain** | Preprocessing | Deployment concepts |
+| Markdown | FastAPI | **RAG** | Feature engineering | Experiment tracking |
+| LaTeX | Databases | **Open Calw** & **N8N** | Story telling | **Secure** implementation of **OpenClaw** |
 
-| Languages | Backend | AI / ML | Data Science | MLOps / Delivery | Additional |
-|---|---|---|---|---|---|
-| Python | FastAPI | Machine learning | Analysis (EDA) | Model serving | React.js |
-| JavaScript | Flask | Deep learning | Visualization | Docker | Next.js |
-| TypeScript | Django | DRL | Preprocessing | Deployment concepts | Full-stack architecture |
-| Markdown | Express.js | RAG | Feature engineering | Experiment tracking | Databases |
-| LaTeX | Nest.js | Prompt engineering | Story telling | Secure implementation of OpenClaw |  |
-
-| Automation | Workflow orchestration | API automation | Analytical scripting | n8n | Make | OpenClaw(Clawed Bot) |
-|---|---|---|---|---|---|---|
 
 ---
 
