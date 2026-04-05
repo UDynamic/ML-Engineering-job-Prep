@@ -86,5 +86,3 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 - English — almost Native
 
 ---
-Studying the Langchain Ai agent systems. wanna make the application system a langchain framework implemementation. 
-LangChain implementation with gapgpt api key
