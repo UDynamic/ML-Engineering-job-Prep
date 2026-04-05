@@ -32,6 +32,7 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 |---|---|---|---|
 | **B.Sc. in Industrial Engineering** | Isfahan University of Technology | Completed<br>`2017 - 2023 (1396 - 1402)` | Undergraduate degree |
 | **M.Sc. in Engineering Management** | Iran University of Science and Technology | In Progress<br>`2023 - 2026 (1402 - 1405)` | **Thesis:** *Autonomous Budgeting AI Agent*<br>built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints |
+| **Ph.D. Entrance Exam - Computer Engineering (AI and Robotics)** | National Universities of Iran | `2026(1405)`Participated<br>`Results Pending` | Built a self-engineered preparation pipeline for the national Ph.D. entrance exam with **expected Rank 1** performance (**ML 80%**, **DSA 25%**, **English 90%**). <br>Created **RAG4Konkur**, a local AI study system for flashcard generation, concept review, and AnkiDroid-ready exports, while documenting the broader preparation process on GitHub across **data structures and algorithms**, **machine learning**, and **pattern recognition**. |
 ---
 
 ## Professional History
@@ -47,5 +48,3 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 ## Languages
 
 - English — almost Native
-
----
