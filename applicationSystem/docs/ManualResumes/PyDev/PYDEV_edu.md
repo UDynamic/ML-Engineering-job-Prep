@@ -28,22 +28,6 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 
 ## Education
 
-### Table Version 1 - Compact
-
-| Degree | University | Dates | Details |
-|---|---|---|---|
-| **B.Sc. in Industrial Engineering** | Isfahan University of Technology | `2017 - 2023 (1396 - 1402)` | Undergraduate degree |
-| **M.Sc. in Engineering Management (In Progress)** | Iran University of Science and Technology | `2023 - 2026 (1402 - 1405)` | **Thesis:** *Autonomous Budgeting AI Agent*; built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints |
-
-### Table Version 2 - Side by Side
-
-| B.Sc. | M.Sc. |
-|---|---|
-| **Industrial Engineering**<br>Isfahan University of Technology<br>`2017 - 2023 (1396 - 1402)` | **Engineering Management (In Progress)**<br>Iran University of Science and Technology<br>`2023 - 2026 (1402 - 1405)` |
-| Undergraduate degree | **Thesis:** *Autonomous Budgeting AI Agent*<br>built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints |
-
-### Table Version 3 - One Degree per Row
-
 | Degree | Institution | Status / Dates | Description |
 |---|---|---|---|
 | **B.Sc. in Industrial Engineering** | Isfahan University of Technology | Completed<br>`2017 - 2023 (1396 - 1402)` | Undergraduate degree |
