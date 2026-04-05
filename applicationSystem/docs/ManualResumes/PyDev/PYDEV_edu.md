@@ -32,53 +32,17 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 |---|---|---|---|
 | **B.Sc. in Industrial Engineering** | Isfahan University of Technology | Completed<br>`2017 - 2023 (1396 - 1402)` | Undergraduate degree |
 | **M.Sc. in Engineering Management** | Iran University of Science and Technology | In Progress<br>`2023 - 2026 (1402 - 1405)` | **Thesis:** *Autonomous Budgeting AI Agent*<br>built a Python-based deep reinforcement learning system for project portfolio budget allocation under uncertainty and dynamic financial constraints |
+| **Ph.D. Entrance Exam - Computer Engineering (AI and Robotics)** | National Universities of Iran | `2026(1405)`Participated<br>`Results Pending` | Built a self-engineered preparation pipeline for the national Ph.D. entrance exam with **expected Rank 1** performance (**ML 80%**, **DSA 25%**, **English 90%**). <br>Created **RAG4Konkur**, a local AI study system for flashcard generation, concept review, and AnkiDroid-ready exports, while documenting the broader preparation process on GitHub across **data structures and algorithms**, **machine learning**, and **pattern recognition**. |
 ---
 
 ## Professional History
 
-#### (1). Project Control Specialist
-**Jahanpars Group**
-`2019 - 2020 (1398 - 1399)`
+| No. | Major Item | Scope |
+|---|---|---|
+| **1** | **Project Control Specialist** | **Jahanpars Group**<br>`2019 - 2020 (1398 - 1399)`<br>First professional position while still an **undergraduate**, during the COVID-19 pandemic. |
+| **2** | **Project Management Officer** | **Iran Energy Industries Corporation (IEIC)**<br>`2023 (1402)`<br>Senior deputy to the Head of Department. |
+| **3** | **Career Break - Market Re-entry** | `2023 (1402) - so far`<br>Intentional shift from Management to deep technical engineering, aiming toward **designing intelligent systems**.<br><br>&nbsp;&nbsp;&nbsp;&nbsp;- **`3.1.` Software Engineering**: freeCodeCamp Full Stack JavaScript Certifications - `(3.1.1.)`Responsive Web Design; `(3.1.2.)`JavaScript Algorithms and Data Structures; `(3.1.3.)`Front End Development Libraries; `(3.1.4.)`Data Visualization; `(3.1.5.)`Relational Database; `(3.1.6.)`Back End Development and APIs.<br>&nbsp;&nbsp;&nbsp;&nbsp;- **`3.2.` ML Engineering job prep**: `(3.2.1.)`built an end-to-end house-price ML pipeline; `(3.2.2.)`implemented a PyTorch CIFAR-10 pipeline with custom loading, augmentation, checkpointing, and ResNet18 transfer learning; `(3.2.3.)`served a model through a FastAPI REST API; `(3.2.4.)`containerized deployment with Docker; `(3.2.5.)`explored CI/CD exposure and MLflow-oriented experiment tracking concepts.<br>&nbsp;&nbsp;&nbsp;&nbsp;- **`3.3.` Additional AI and passion projects**: `(3.3.1.)`robotic arm reinforcement learning simulation; `(3.3.2.)`RAG4Konkur, a local LLM study assistant; `(3.3.3.)`algorithmic trading system experiments; `(3.3.4.)`live stock candlestick and treemap charts; `(3.3.5.)`spreadsheet web app; `(3.3.6.)`logistics heatmap decision-support tool; `(3.3.7.)`LangChain application system for tailored submission packages. |
 
-* First professional position while still an **undergraduate**, during the COVID‑19 pandemic.
-
-#### (2). Project Management Officer
-**Iran Energy Industries Corporation (IEIC)**
-`2023 (1402)`
-
-- Senior deputy to the Head of Department
-
-#### (3). Career Break — Market Re-entry
-`2023 (1402) - so far`
-
-* Made an intentional shift from Management to deep technical engineering trying everything untill reaching the edge of knowledge of AI, recognizing my strength lies in **designing intelligent systems** rather than tracking progress metrics.
-
-#### (3.1) Software Engineering:
-`2024 (1403)`
-
-* **freeCodeCamp Full Stack JavaScript Certifications:**
-    1- Responsive Web Design Certification
-    2- JavaScript Algorithms and Data Structures Certification
-    3- Front End Development Libraries Certification
-    4- Data Visualization Certification
-    5- Relational Database Certification
-    6- Back End Development and APIs Certification
-
-
-#### (3.2) ML Engineering job prep:
-1. built an **end-to-end machine learning pipeline** for house-price prediction covering **EDA, preprocessing, feature engineering, model comparison, cross-validation, and model selection**
-2. implemented a **PyTorch deep learning pipeline** for CIFAR-10 with custom data loading, training loops, augmentation experiments, checkpointing, and **transfer learning with ResNet18**
-3. served a trained model through a **FastAPI REST API** and containerized it with **Docker** for production-style deployment
-4. explored supporting ML engineering practices including **deployment options, CI/CD exposure, and MLflow-oriented experiment tracking concepts**
-
-#### (3.2) Additional AI and passion projects:
-1. contributed to a **robotic arm reinforcement learning simulation** for trajectory control in microgravity-inspired assembly settings
-2. built **RAG4Konkur**, a **local LLM study assistant** for adaptive flashcards, recall prompts, and study-question generation
-3. developed **algorithmic trading system experiments** across momentum, mean-reversion, variance-based, and rule-driven strategies(Ichimoko cloudes, Elliott waves)
-4. built a live stock prices candlestick chart with D3.js and another Treemap live chart
-4. built a spreadsheet web app with vanilla.js 
-6. built a **logistics heatmap decision-support tool** for regional profitability analysis
-7. built a LangChain application system producing submission packages for each specific job postings from personal source of truth and mapping of attributes.   
 ---
 
 ## Languages
@@ -86,5 +50,3 @@ mahriargharaghani@gmail.com | +98 917 397 8579
 - English — almost Native
 
 ---
-Studying the Langchain Ai agent systems. wanna make the application system a langchain framework implemementation. 
-LangChain implementation with gapgpt api key
