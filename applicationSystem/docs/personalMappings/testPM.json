@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "version": "1.0",
+    "last_updated": "2026-03-19",
+    "purpose": "Master personal context map for generating role-specific resumes",
+    "notes": "Fill placeholders with specific, verifiable details."
+  },
+  "identity": {
+    "full_name": "Mahriar Gharaghani",
+    "headline": "",
+    "location": "Tehran",
+    "email": "mahriargharaghani@gmail.com",
+    "phone": "09173978579",
+    "linkedin": "",
+    "github": "",
+    "portfolio": "",
+    "website": ""
+  },
+  "career_targets": {
+    "open_to_positions": [
+      "ML Engineer",
+      "AI Engineer",
+      "Python developer"
+    ],
+    "target_roles_priority": [
+      {
+        "role": "Ml engineer",
+        "priority": 1,
+        "reason": "inline with latest projects and academic study"
+      },
+      {
+        "role": "Ai engineer",
+        "priority": 2,
+        "reason": "inline with latest projects and academic study. maybe ambitious for corrent knowledge and skills"
+      },
+      {
+        "role": "Python developer",
+        "priority": 3,
+        "reason": "general positioning around the python coding as the main language of focus for AI and ML"
+      }
+    ],
+    "preferred_industries": [
+      "robotics",
+      "Pure Ai science",
+      "Finance"
+    ],
+    "preferred_company_stage": "",
+    "preferred_work_type": [
+      "Hybrid",
+      "Remote"
+    ],
+    "preferred_locations": [
+      "Tehran is ideal for my current location being there"
+    ],
+    "salary_expectation": {
+      "currency": "Iranian Millon Tomans",
+      "min": 40,
+      "target": 40,
+      "max": null
+    }
+  },
+  "personal_brand": {
+    "positioning_statement": "",
+    "professional_summary": "",
+    "core_identity": [
+      "Scientist",
+      "Mathematician",
+      "Problem Solver",
+      "Teacher",
+      "Planner",
+      "Writer"
+    ],
+    "work_style": {
+      "depth_over_speed": true,
+      "notes": ""
+    },
+    "values": [
+      {
+        "name": "Honesty",
+        "level": "Highest",
+        "evidence": ""
+      },
+      {
+        "name": "Fidelity",
+        "level": "Highest",
+        "evidence": ""
+      }
+    ],
+    "most_important_feelings": [
+      "Being the wisest",
+      "Pride",
+      "Accomplishment",
+      "Progress"
+    ],
+    "sources_of_pride": [
+      "Exceptional results",
+      "Complex problem solving",
+      "Creation",
+      "Assembly",
+      "Automation",
+      "Optimization"
+    ]
+  },
+  "background": {
+    "education_foundation": "Industrial Engineering (Engineering Management)",
+    "past_skills": [
+      "Data analysis",
+      "Data visualization",
+      "Progress reports",
+      "Management reports",
+      "Delay analysis and planning"
+    ],
+    "past_tools": [
+      "Social skills",
+      "Excel",
+      "PowerPoint"
+    ],
+    "past_domain_experience": [],
+    "languages": [
+      {
+        "language": "",
+        "proficiency": ""
+      }
+    ]
+  },
+  "career_transition": {
+    "career_break": {
+      "start_date": "",
+      "end_date": "",
+      "summary": "",
+      "dissatisfactions": [
+        "Personality incompatibility",
+        "No real evidence of growth and progress",
+        "Low social status"
+      ],
+      "motivation": "Urge for deep mastery in computer science, AI, and automation",
+      "justification": "Top-level outcomes in modern fields require deep and sustained computing-focused practice"
+    },
+    "experimental_practices": [
+      {
+        "domain": "Financial Engineering and Quantitative Analysis",
+        "areas_explored": [
+          "Accounting",
+          "Marketing",
+          "Financial markets"
+        ],
+        "projects": []
+      },
+      {
+        "domain": "Front-End Web Development",
+        "stack": [
+          "React",
+          "Redux",
+          "Next.js"
+        ],
+        "areas_explored": [
+          "Infrastructure (WSL, CLI, OS, hardware)",
+          "Databases (SQL, NoSQL)",
+          "UI/UX design",
+          "Landing pages",
+          "QA"
+        ],
+        "projects": []
+      },
+      {
+        "domain": "Back-End Web Development",
+        "stack": [
+          "Express.js",
+          "Nest.js"
+        ],
+        "areas_explored": [
+          "Security (authentication, encryption)",
+          "Database management",
+          "End-to-end data pipelines",
+          "Design patterns (factory, strategy, template)"
+        ],
+        "projects": []
+      },
+      {
+        "domain": "Machine Learning and AI",
+        "areas_explored": [],
+        "projects": []
+      }
+    ],
+    "found_passions": [
+      "Mathematics",
+      "Machine Learning and AI",
+      "Robotics (micro-gravity focus)"
+    ]
+  },
+  "education": [
+    {
+      "degree": "",
+      "field": "",
+      "institution": "",
+      "location": "",
+      "start_date": "",
+      "end_date": "",
+      "gpa": "",
+      "rank_or_grade": "",
+      "relevant_coursework": [],
+      "thesis": {
+        "title": "",
+        "summary": "",
+        "link": ""
+      }
+    }
+  ],
+  "achievements": {
+    "competitions_and_exams": [
+      {
+        "name": "Master's Grades",
+        "result": "Rank A",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "Master's Thesis",
+        "result": "Developed budgeting AI agent",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "National PhD Exam for Computer Engineering (AI & Robotics)",
+        "result": "Rank 1",
+        "year": "",
+        "verification": ""
+      }
+    ],
+    "awards": [],
+    "publications": [],
+    "certifications": [
+      {
+        "name": "freeCodeCamp Responsive Web Design Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp JavaScript Algorithms and Data Structures Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Front End Development Libraries Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Data Visualization Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Relational Database Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      },
+      {
+        "name": "freeCodeCamp Back End Development and APIs Certification",
+        "issuer": "freeCodeCamp",
+        "year": "",
+        "verification": ""
+      }
+    ]
+  },
+  "skills_map": {
+    "technical_skills": {
+      "programming_languages": [
+        "Python",
+        "JavaScript"
+      ],
+      "ml_ai": [
+        "Machine Learning",
+        "Deep Learning",
+        "Reinforcement Learning",
+        "RAG",
+        "Prompt Engineering",
+        "Model Fine-tuning"
+      ],
+      "data": [
+        "Data Analysis",
+        "Data Visualization",
+        "Statistics",
+        "Experimentation"
+      ],
+      "backend": [
+        "Express.js",
+        "Nest.js",
+        "API design",
+        "Authentication",
+        "Encryption",
+        "Data pipeline design"
+      ],
+      "frontend": [
+        "React",
+        "Redux",
+        "Next.js",
+        "Context API",
+        "React Hooks"
+      ],
+      "databases": [
+        "SQL",
+        "NoSQL"
+      ],
+      "tools_platforms": [
+        "Git",
+        "WSL",
+        "CLI",
+        "Excel",
+        "PowerPoint",
+        "n8n",
+        "Jest",
+        "Mocha",
+        "Puppeteer"
+      ],
+      "math_theory": [
+        "Data structures and algorithms",
+        "Discrete mathematics",
+        "Linear algebra",
+        "Probability and statistics",
+        "Pattern recognition"
+      ]
+    },
+    "soft_skills": [
+      "Problem solving",
+      "Structured thinking",
+      "Teaching",
+      "Planning",
+      "Writing"
+    ],
+    "evidence_of_discipline": [
+      {
+        "claim": "Consistency",
+        "evidence": "GitHub commit history",
+        "link": ""
+      }
+    ]
+  },
+  "projects": [
+    {
+      "name": "",
+      "role": "",
+      "category": "ML | Data | AI | Web | Automation",
+      "problem": "",
+      "solution": "",
+      "tech_stack": [],
+      "impact": {
+        "metrics": [],
+        "business_value": ""
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      }
+    },
+    {
+      "name": "Tehran Ride-Demand Profitability Heatmap (Reverse-Engineered Data Pipeline)",
+      "role": "Full-stack JavaScript Developer (Project Owner)",
+      "category": "Data | Web | Automation",
+      "problem": "Identify the most profitable inter-district trips in Tehran by estimating demand-price behavior across 22 districts.",
+      "solution": "Built a Puppeteer-based reverse-engineering and data collection pipeline with a minimal Express.js backend and database integration to compute and visualize profitable routes as heatmaps.",
+      "tech_stack": [
+        "JavaScript",
+        "Puppeteer",
+        "Express.js",
+        "PostgreSQL"
+      ],
+      "impact": {
+        "metrics": [
+          "22 districts modeled",
+          "~20-day long-run binary price fetching cycle to cover district-to-district combinations"
+        ],
+        "business_value": "Established a framework for demand-aware route profitability analysis for ride-hailing strategy."
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "local_path": "F:/Career/02. Computer Science/2. Software Engineering/98. Projects/01. ULDSS",
+      "challenges": [
+        "API calling performance bottleneck while collecting full area-to-area pricing data at scale"
+      ]
+    },
+    {
+      "name": "PPO Portfolio Budgeting AI Agent (Thesis RL Environment Demo)",
+      "role": "ML/AI Engineer (Research Project Lead)",
+      "category": "ML | AI",
+      "problem": "Create an AI agent that generates and evaluates diverse project-portfolio budgeting decisions under changing states and constraints.",
+      "solution": "Formulated a project portfolio optimization environment and built PPO-based RL experimentation workflow with notebook-driven documentation.",
+      "tech_stack": [
+        "Python",
+        "Reinforcement Learning",
+        "PPO",
+        "Jupyter Notebooks"
+      ],
+      "impact": {
+        "metrics": [
+          "Custom environment formulation documented",
+          "Synthetic/project-portfolio state generation workflow created"
+        ],
+        "business_value": "Demonstrated independent problem formulation and implementation for thesis-critical AI budgeting research."
+      },
+      "links": {
+        "repo": "",
+        "demo": "",
+        "case_study": ""
+      },
+      "dates": {
+        "start": "",
+        "end": ""
+      },
+      "local_path": "F:/Career/00. Univesity/Masters/05. Master's thesis/PPO-project-portfolio-budgeting-AI-agent/notebooks"
+    }
+  ],
+  "portfolio_highlights": [
+    "ML engineering job prep projects",
+    "Autonomous budgeting DRL AI",
+    "Front-end projects"
+  ],
+  "experience": [
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "employment_type": "",
+      "start_date": "",
+      "end_date": "",
+      "is_current": false,
+      "responsibilities": [],
+      "achievements": [
+        {
+          "statement": "",
+          "metric": ""
+        }
+      ],
+      "tools_used": []
+    }
+  ],
+  "knowledge_domains": {
+    "current_focus": [
+      "Machine Learning Engineering",
+      "AI Engineering",
+      "Data Analytics"
+    ],
+    "ai_system_design": [
+      "Prompt engineering",
+      "End-to-end ML system design",
+      "RAG implementation",
+      "AI fine-tuning",
+      "Workflow automation"
+    ],
+    "workflow_automation_tools": [
+      "n8n",
+      "OpenClaw"
+    ]
+  },
+  "interview_strategy": {
+    "narrative_points": [
+      "I actively seek complex, high-impact problems.",
+      "I build trust over time through consistent delivery.",
+      "I prefer depth and rigor when solving hard challenges."
+    ],
+    "questions_to_ask_employers": [
+      "What are the team's biggest short-term and long-term technical bottlenecks?",
+      "Which problems are repeatedly deferred because they are hard to solve?",
+      "How is success measured for this role in the first 3, 6, and 12 months?"
+    ]
+  },
+  "future": {
+    "vision": "Expand the edge of knowledge in AI and robotics at world-class level",
+    "long_term_goals": [],
+    "research_interests": [
+      "AI",
+      "Robotics",
+      "Human intelligence modeling"
+    ]
+  },
+  "resume_generation_controls": {
+    "tone_options": [
+      "Formal",
+      "Technical",
+      "Executive",
+      "Founder-style"
+    ],
+    "role_specific_emphasis": {
+      "data_analyst": [
+        "Analytics impact",
+        "Dashboards",
+        "Experimentation",
+        "Stakeholder communication"
+      ],
+      "ml_engineer": [
+        "Model lifecycle",
+        "MLOps",
+        "Deployment",
+        "Performance metrics"
+      ],
+      "ai_engineer": [
+        "LLM applications",
+        "RAG",
+        "Agent workflows",
+        "Evaluation"
+      ]
+    },
+    "exclude_for_resume": [
+      "Overly personal claims",
+      "Unverifiable superlatives"
+    ]
+  },
+  "custom_notes": {
+    "raw_statements_to_refine": [
+      "I can do neural network backpropagation on paper.",
+      "I know it from scratch.",
+      "I am in search of problems."
+    ],
+    "items_needing_verification": [
+      "Exam rank documents",
+      "Degree and thesis records",
+      "Project metrics and links",
+      "freeCodeCamp certificate URLs for all completed tracks",
+      "Repository/demo links for FCC certification projects",
+      "ULDSS project repo metrics and screenshots",
+      "Thesis proposal metadata and supervisor details for portfolio budgeting agent"
+    ]
+  },
+  "learning_journey": {
+    "summary": "Accelerated full-stack JavaScript learning path followed by a Python pivot to deliver a thesis-critical RL budgeting agent.",
+    "phases": [
+      {
+        "phase": "Full-stack JavaScript acceleration",
+        "focus": [
+          "React ecosystem",
+          "Express.js backend",
+          "Project-based building"
+        ],
+        "context": "Fast-tracked toward full-stack readiness while completing freeCodeCamp certifications."
+      },
+      {
+        "phase": "Databases and data pipelines",
+        "focus": [
+          "PostgreSQL (primary)",
+          "MySQL (tutorial exposure)",
+          "MongoDB (tutorial exposure)"
+        ],
+        "context": "Built client-to-database pipeline using minimal Express.js backend and end-to-end data flow design."
+      },
+      {
+        "phase": "React specialization",
+        "focus": [
+          "React Hooks",
+          "Redux",
+          "Context API",
+          "Authentication/login patterns"
+        ],
+        "context": "Studied modern front-end architecture and state management patterns for production-style apps."
+      },
+      {
+        "phase": "Testing and engineering discipline",
+        "focus": [
+          "Jest",
+          "Mocha"
+        ],
+        "context": "Practiced unit/integration-oriented testing patterns while following full-stack tutorials."
+      },
+      {
+        "phase": "TypeScript transition",
+        "focus": [
+          "TypeScript with React",
+          "Type-safe Express/Nest usage",
+          "Bundlers and type-checking workflow"
+        ],
+        "context": "Improved reliability and maintainability through typed development."
+      },
+      {
+        "phase": "Python and RL pivot for thesis",
+        "focus": [
+          "Reinforcement learning environment design",
+          "Portfolio budgeting agent formulation",
+          "Research-oriented implementation"
+        ],
+        "context": "Switched priority due to thesis proposal and delivery deadlines."
+      }
+    ]
+  }
+}

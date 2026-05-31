@@ -1,0 +1,290 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [3 0 R 5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+4 0 obj
+<< /Length 4246 >>
+stream
+0.98 0.98 0.99 rg
+0 0 612 792 re f
+0.84 0.86 0.90 RG
+0.6 w
+72 756 m 540 756 l S
+BT
+/F2 20.00 Tf
+0.080 0.160 0.320 rg
+1 0 0 1 72.00 716.00 Tm
+(Test Candidate - Resume \(Customized\)) Tj
+ET
+0.840 0.860 0.900 RG
+0.8 w
+72 696.00 m 540 696.00 l S
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 684.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 662.00 Tm
+(Target) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 642.00 Tm
+(- ML Engineer at Snappfood) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 625.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 603.00 Tm
+(Position Snapshot) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 583.00 Tm
+(- ???? ??? | Snappfood) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 566.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 544.00 Tm
+(Profile) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 524.00 Tm
+(- Machine learning engineer with a strong bias toward shipping production-ready systems, not just isolated models.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 507.00 Tm
+(- Comfortable owning the path from experimentation to deployed workflow, including data handling, interfaces, evaluation, and iteration.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 490.00 Tm
+(- Prefer clean architecture, readable code, and measurable progress over novelty for its own sake.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 473.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 451.00 Tm
+(What I Bring) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 431.00 Tm
+(- Design and implement data pipelines to support ML model training and inference. Experience with database systems...) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 414.00 Tm
+(- Work closely with data scientists, product managers, and other stakeholders to understand requirements, provide...) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 397.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 375.00 Tm
+(Experience Highlights) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 355.00 Tm
+(- Lead the end-to-end process of transforming ML models into robust, scalable, and efficient APIs using Python. Expertise in...) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 338.00 Tm
+(- Exhibit excellent software development skills in Python, including proficiency in writing clean, maintainable code...) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 321.00 Tm
+(- Design and implement data pipelines to support ML model training and inference. Experience with database systems, software...) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 304.00 Tm
+(- Strengthened system reliability through better interfaces, validation, and implementation discipline.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 287.00 Tm
+(- Worked across technical and product constraints to turn requirements into practical deliverables.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 270.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 248.00 Tm
+(Working Style) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 228.00 Tm
+(- Think in systems: inputs, outputs, failure modes, and maintainability all matter.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 211.00 Tm
+(- Communicate clearly with both technical and non-technical collaborators.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 194.00 Tm
+(- Optimize for trustworthy delivery, not just one-off experimentation.) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 177.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 155.00 Tm
+(High-Value Signals) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 135.00 Tm
+(- ...) Tj
+ET
+BT
+/F1 11.50 Tf
+0.120 0.120 0.120 rg
+1 0 0 1 72.00 118.00 Tm
+() Tj
+ET
+BT
+/F2 13.00 Tf
+0.140 0.200 0.340 rg
+1 0 0 1 72.00 96.00 Tm
+(Links) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 76.00 Tm
+(- GitHub: <add-link>) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 72 34 Tm
+(Submission package) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 500 34 Tm
+(Page 1 of 2) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 6 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Times-Roman >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> /F3 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> >> >> >>
+endobj
+6 0 obj
+<< /Length 406 >>
+stream
+0.98 0.98 0.99 rg
+0 0 612 792 re f
+0.84 0.86 0.90 RG
+0.6 w
+72 756 m 540 756 l S
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 720.00 Tm
+(- Portfolio: <add-link>) Tj
+ET
+BT
+/F1 11.50 Tf
+0.140 0.140 0.140 rg
+1 0 0 1 88.00 703.00 Tm
+(- LinkedIn: <add-link>) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 72 34 Tm
+(Submission package) Tj
+ET
+BT
+/F3 9 Tf
+0.45 0.45 0.45 rg
+1 0 0 1 500 34 Tm
+(Page 2 of 2) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000421 00000 n 
+0000004719 00000 n 
+0000005019 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5476
+%%EOF

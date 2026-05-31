@@ -1,0 +1,25 @@
+Linear Regression:
+  CV RMSE: 43327.4828 (±13546.8232)
+  Validation RMSE: 138894.5889
+  Validation R2: -1.5151
+
+Ridge:
+  CV RMSE: 29237.1875 (±4358.8744)
+  Validation RMSE: 30033.5878
+  Validation R2: 0.8824
+
+Lasso:
+  CV RMSE: 35933.1283 (±5709.6601)
+  Validation RMSE: 32270.0583
+  Validation R2: 0.8642
+
+Random Forest:
+  CV RMSE: 30610.9826 (±4831.5112)
+  Validation RMSE: 28630.7909
+  Validation R2: 0.8931
+
+XGBoost:
+  CV RMSE: 30149.7703 (±5376.3228)
+  Validation RMSE: 25092.4307
+  Validation R2: 0.9179
+

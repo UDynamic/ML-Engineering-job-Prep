@@ -1,0 +1,103 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Courier >> >> >> >>
+endobj
+4 0 obj
+<< /Length 1363 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+72 742 Td
+(YOUR NAME ? RESUME \(CUSTOMIZED\)) Tj
+T*
+(===============================) Tj
+T*
+() Tj
+T*
+(TARGET ROLE) Tj
+T*
+(===========) Tj
+T*
+(? ML Engineer at OpenAI) Tj
+T*
+() Tj
+T*
+(SUMMARY) Tj
+T*
+(=======) Tj
+T*
+(? Machine Learning Engineer focused on production ML systems, robust data workflows, and) Tj
+T*
+(practical model iteration.) Tj
+T*
+(? Comfortable owning the lifecycle from experimentation to deployment.) Tj
+T*
+() Tj
+T*
+(CORE SKILLS) Tj
+T*
+(===========) Tj
+T*
+(? Python, SQL, feature engineering, model evaluation) Tj
+T*
+(? MLOps workflows, reproducibility, monitoring) Tj
+T*
+(? API integration, automation, and tooling) Tj
+T*
+() Tj
+T*
+(EXPERIENCE HIGHLIGHTS) Tj
+T*
+(=====================) Tj
+T*
+(? Built and iterated ML pipelines with clear evaluation criteria and reproducible runs.) Tj
+T*
+(? Improved system reliability through input validation, better observability, and cleaner) Tj
+T*
+(interfaces.) Tj
+T*
+(? Collaborated across product and engineering constraints to deliver measurable outcomes.) Tj
+T*
+() Tj
+T*
+(PROJECTS) Tj
+T*
+(========) Tj
+T*
+(? End-to-end ML application systems for role-targeted submissions.) Tj
+T*
+(? Workflow automation scripts for packaging, reporting, and review.) Tj
+T*
+() Tj
+T*
+(LINKS) Tj
+T*
+(=====) Tj
+T*
+(? GitHub: <add-link>) Tj
+T*
+(? Portfolio: <add-link>) Tj
+T*
+(? LinkedIn: <add-link>) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000288 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1703
+%%EOF
